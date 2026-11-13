@@ -1,0 +1,3326 @@
+[
+  {
+    "key": "whgovwire_html_2025-05-08T18:01:09.337Z",
+    "file": "whgovwire_html_2025-05-08T18:01:09.337Z.html",
+    "bytes": 184967,
+    "sha256": "47a633c1748a58ff7a7da8b72f99eb8755ae01ea2067b0040e94caff523ea01c"
+  },
+  {
+    "key": "whgovwire_html_2025-05-09T18:01:09.387Z",
+    "file": "whgovwire_html_2025-05-09T18:01:09.387Z.html",
+    "bytes": 186871,
+    "sha256": "c47a79b2d0817516eae0a162b9a56baeedc74dcb009772d8d7effdfc64726e3e"
+  },
+  {
+    "key": "whgovwire_html_2025-05-10T18:01:09.617Z",
+    "file": "whgovwire_html_2025-05-10T18:01:09.617Z.html",
+    "bytes": 186244,
+    "sha256": "41268ddc68d39640144caaff0cb8ff8bff20d4faf654b9987060680fbfa7a191"
+  },
+  {
+    "key": "whgovwire_html_2025-05-11T18:01:09.588Z",
+    "file": "whgovwire_html_2025-05-11T18:01:09.588Z.html",
+    "bytes": 186334,
+    "sha256": "f19d319e2055fcb8ad60183b58b50e53393a997d7bbea9cdcd9dcca729827b7e"
+  },
+  {
+    "key": "whgovwire_html_2025-05-12T18:01:10.019Z",
+    "file": "whgovwire_html_2025-05-12T18:01:10.019Z.html",
+    "bytes": 186716,
+    "sha256": "99fe2cab8c96e115a857731da29d74fea2eb379e9508ce0798cc75383f949078"
+  },
+  {
+    "key": "whgovwire_html_2025-05-13T18:01:10.192Z",
+    "file": "whgovwire_html_2025-05-13T18:01:10.192Z.html",
+    "bytes": 184620,
+    "sha256": "c2ab74bb4f93078594d30a24aff2c3c9db167e90fae2f822ea37d1204047ab99"
+  },
+  {
+    "key": "whgovwire_html_2025-05-14T18:01:10.296Z",
+    "file": "whgovwire_html_2025-05-14T18:01:10.296Z.html",
+    "bytes": 186188,
+    "sha256": "536b0075bfcc1447edb6f5c71ec73e0bed8c3a0a9fcbadd83aeaf08b1e6c720a"
+  },
+  {
+    "key": "whgovwire_html_2025-05-15T18:01:10.639Z",
+    "file": "whgovwire_html_2025-05-15T18:01:10.639Z.html",
+    "bytes": 186150,
+    "sha256": "b6ea03a0805b950403a38c2b12d140ccabf8a8b05096fa90bcb7cc102008b4bf"
+  },
+  {
+    "key": "whgovwire_html_2025-05-16T18:01:10.750Z",
+    "file": "whgovwire_html_2025-05-16T18:01:10.750Z.html",
+    "bytes": 186425,
+    "sha256": "f499c4f6813741b988fcb914c82ce5c1812dc4a64f276291f480552ededaaada"
+  },
+  {
+    "key": "whgovwire_html_2025-05-17T18:01:10.787Z",
+    "file": "whgovwire_html_2025-05-17T18:01:10.787Z.html",
+    "bytes": 186803,
+    "sha256": "c1b3c66fa451ef125ceb8d2aa0f94df10f97be9ca11a00ce1d64cd491f72368f"
+  },
+  {
+    "key": "whgovwire_html_2025-05-18T18:01:11.029Z",
+    "file": "whgovwire_html_2025-05-18T18:01:11.029Z.html",
+    "bytes": 187160,
+    "sha256": "7bb7aafbc066d8e8e71b7dd3b8cc751af3f45aba4d6e7934aade8d8117baa783"
+  },
+  {
+    "key": "whgovwire_html_2025-05-19T18:01:11.269Z",
+    "file": "whgovwire_html_2025-05-19T18:01:11.269Z.html",
+    "bytes": 212430,
+    "sha256": "f234e218ffcaae64b1faa4238f23a8526ca441ec2fb3c53bd0c12b0ddd4b647e"
+  },
+  {
+    "key": "whgovwire_html_2025-05-20T18:01:11.428Z",
+    "file": "whgovwire_html_2025-05-20T18:01:11.428Z.html",
+    "bytes": 212157,
+    "sha256": "3b9cbf5f590b24263de50370fb103a6625144dbf1f7d6ff1a91c1172de968773"
+  },
+  {
+    "key": "whgovwire_html_2025-05-21T18:01:11.888Z",
+    "file": "whgovwire_html_2025-05-21T18:01:11.888Z.html",
+    "bytes": 186359,
+    "sha256": "67f09244443dec87fbf43e04e463c1ff1070b1c94ba5150236e7e093cf57c4b5"
+  },
+  {
+    "key": "whgovwire_html_2025-05-22T18:01:11.846Z",
+    "file": "whgovwire_html_2025-05-22T18:01:11.846Z.html",
+    "bytes": 187202,
+    "sha256": "98fbabab7c609a1e869885f8302cf6f1c968ac469a57653002d16622efde998f"
+  },
+  {
+    "key": "whgovwire_html_2025-05-23T18:01:12.101Z",
+    "file": "whgovwire_html_2025-05-23T18:01:12.101Z.html",
+    "bytes": 186644,
+    "sha256": "829a14583743046d9b2d05025ceedf2e754a63a0757b95a93fafd8f974d5bfe7"
+  },
+  {
+    "key": "whgovwire_html_2025-05-24T18:01:12.103Z",
+    "file": "whgovwire_html_2025-05-24T18:01:12.103Z.html",
+    "bytes": 186644,
+    "sha256": "8d2e0a5816d533a4f0364c258eb6ff14976130543dcdd031850c901bced468a6"
+  },
+  {
+    "key": "whgovwire_html_2025-05-25T18:01:12.261Z",
+    "file": "whgovwire_html_2025-05-25T18:01:12.261Z.html",
+    "bytes": 186644,
+    "sha256": "8d2e0a5816d533a4f0364c258eb6ff14976130543dcdd031850c901bced468a6"
+  },
+  {
+    "key": "whgovwire_html_2025-05-26T18:01:12.530Z",
+    "file": "whgovwire_html_2025-05-26T18:01:12.530Z.html",
+    "bytes": 186644,
+    "sha256": "8d2e0a5816d533a4f0364c258eb6ff14976130543dcdd031850c901bced468a6"
+  },
+  {
+    "key": "whgovwire_html_2025-05-27T18:01:13.157Z",
+    "file": "whgovwire_html_2025-05-27T18:01:13.157Z.html",
+    "bytes": 188069,
+    "sha256": "5ddcd056f659664f1b816e23c5e1b9b0a22867f4a4260e430204297f143449f5"
+  },
+  {
+    "key": "whgovwire_html_2025-05-28T18:01:13.140Z",
+    "file": "whgovwire_html_2025-05-28T18:01:13.140Z.html",
+    "bytes": 212898,
+    "sha256": "6a195e3a53783f942662acbae63b4516b3df550325492e3f859910769a990589"
+  },
+  {
+    "key": "whgovwire_html_2025-05-29T18:01:13.081Z",
+    "file": "whgovwire_html_2025-05-29T18:01:13.081Z.html",
+    "bytes": 187778,
+    "sha256": "f38119c3981ed5a0f6b90dc83c7f0bb04fec637bc81eb27c3ab2b4a3bbabd460"
+  },
+  {
+    "key": "whgovwire_html_2025-05-30T18:01:13.200Z",
+    "file": "whgovwire_html_2025-05-30T18:01:13.200Z.html",
+    "bytes": 187005,
+    "sha256": "169b385df0ca2de17408cfc748e62a6be728e1a9b07e7082e44bf6bb5d8e2f96"
+  },
+  {
+    "key": "whgovwire_html_2025-05-31T18:01:13.847Z",
+    "file": "whgovwire_html_2025-05-31T18:01:13.847Z.html",
+    "bytes": 187474,
+    "sha256": "47e6a7ef28b5ad8b1526ba2997fe8bcfe1fc19ea70ee5b3d19018f47e954ba96"
+  },
+  {
+    "key": "whgovwire_html_2025-06-01T18:01:13.989Z",
+    "file": "whgovwire_html_2025-06-01T18:01:13.989Z.html",
+    "bytes": 188024,
+    "sha256": "36598bc9c0a015665c27d4b90626e2f536832656095c5b41b9925f4e12d211da"
+  },
+  {
+    "key": "whgovwire_html_2025-06-02T18:01:14.486Z",
+    "file": "whgovwire_html_2025-06-02T18:01:14.486Z.html",
+    "bytes": 187639,
+    "sha256": "300df36e5ab354a1c57f1488452d6a734e04d63ecfc771246d76fb26a5a79513"
+  },
+  {
+    "key": "whgovwire_html_2025-06-03T18:01:15.673Z",
+    "file": "whgovwire_html_2025-06-03T18:01:15.673Z.html",
+    "bytes": 187380,
+    "sha256": "63ff1979dbe6c383f905a0a3af11ade21d8bae37729bb5e4e799a3fbeeae771c"
+  },
+  {
+    "key": "whgovwire_html_2025-06-04T18:01:15.919Z",
+    "file": "whgovwire_html_2025-06-04T18:01:15.919Z.html",
+    "bytes": 213441,
+    "sha256": "8c8c1bc766edc3b8a75ee67972234d98c8dcf3f596224d42b6237584573ffeec"
+  },
+  {
+    "key": "whgovwire_html_2025-06-05T18:01:16.312Z",
+    "file": "whgovwire_html_2025-06-05T18:01:16.312Z.html",
+    "bytes": 188618,
+    "sha256": "405cbeb21c088defdb8dad76a31334c48c511b00ab48d9ae6bb9df8bf0ee90e2"
+  },
+  {
+    "key": "whgovwire_html_2025-06-06T18:01:16.277Z",
+    "file": "whgovwire_html_2025-06-06T18:01:16.277Z.html",
+    "bytes": 189378,
+    "sha256": "5601bbef49241e1aef483ba1ab66f4756131c8b09f52f73bd3dc9e6c1bac2bae"
+  },
+  {
+    "key": "whgovwire_html_2025-06-07T18:01:16.554Z",
+    "file": "whgovwire_html_2025-06-07T18:01:16.554Z.html",
+    "bytes": 189336,
+    "sha256": "a6be9c50f7ceca1d2c55e03ab5b0222014ef13b6542c30e6d8357eec98cc1c11"
+  },
+  {
+    "key": "whgovwire_html_2025-06-08T18:01:16.409Z",
+    "file": "whgovwire_html_2025-06-08T18:01:16.409Z.html",
+    "bytes": 189336,
+    "sha256": "a6be9c50f7ceca1d2c55e03ab5b0222014ef13b6542c30e6d8357eec98cc1c11"
+  },
+  {
+    "key": "whgovwire_html_2025-06-09T18:01:16.995Z",
+    "file": "whgovwire_html_2025-06-09T18:01:16.995Z.html",
+    "bytes": 189336,
+    "sha256": "a6be9c50f7ceca1d2c55e03ab5b0222014ef13b6542c30e6d8357eec98cc1c11"
+  },
+  {
+    "key": "whgovwire_html_2025-06-10T18:01:17.240Z",
+    "file": "whgovwire_html_2025-06-10T18:01:17.240Z.html",
+    "bytes": 191024,
+    "sha256": "71387cb9c7ccd3522e4dd26c6a395dcb8fe40617ab9c2f8a0f2025d9881931a5"
+  },
+  {
+    "key": "whgovwire_html_2025-06-11T18:01:17.286Z",
+    "file": "whgovwire_html_2025-06-11T18:01:17.286Z.html",
+    "bytes": 190138,
+    "sha256": "0b68db6bd1f74b26c8b14d1e83254eecfe18ec52ae0b6f8e5ad04785bf8e2410"
+  },
+  {
+    "key": "whgovwire_html_2025-06-12T18:01:17.792Z",
+    "file": "whgovwire_html_2025-06-12T18:01:17.792Z.html",
+    "bytes": 188609,
+    "sha256": "8ad4c46bb5ee41d0e2e97def6544061828b725da27dc7cbf391541ebcb78d039"
+  },
+  {
+    "key": "whgovwire_html_2025-06-13T18:01:18.166Z",
+    "file": "whgovwire_html_2025-06-13T18:01:18.166Z.html",
+    "bytes": 190275,
+    "sha256": "8d8b128ed06432c63c539a13db608f685f3e7f965693399265fcff06a90edb2d"
+  },
+  {
+    "key": "whgovwire_html_2025-06-14T18:01:18.125Z",
+    "file": "whgovwire_html_2025-06-14T18:01:18.125Z.html",
+    "bytes": 190326,
+    "sha256": "15ee668c7407bdc3d6f2c2216406f85363da381b077fbfb989f13c654704b151"
+  },
+  {
+    "key": "whgovwire_html_2025-06-15T18:01:18.780Z",
+    "file": "whgovwire_html_2025-06-15T18:01:18.780Z.html",
+    "bytes": 190326,
+    "sha256": "15ee668c7407bdc3d6f2c2216406f85363da381b077fbfb989f13c654704b151"
+  },
+  {
+    "key": "whgovwire_html_2025-06-16T18:01:19.389Z",
+    "file": "whgovwire_html_2025-06-16T18:01:19.389Z.html",
+    "bytes": 190883,
+    "sha256": "c7b994c72f7ce54411956f498fc01ee4f13faf7ce12db237d183e0c4314bf42b"
+  },
+  {
+    "key": "whgovwire_html_2025-06-17T18:01:19.662Z",
+    "file": "whgovwire_html_2025-06-17T18:01:19.662Z.html",
+    "bytes": 191102,
+    "sha256": "e829a459d40d08fe1616063562ff67bd529d4dde13f36491a51c84a7ea47937d"
+  },
+  {
+    "key": "whgovwire_html_2025-06-18T18:01:19.717Z",
+    "file": "whgovwire_html_2025-06-18T18:01:19.717Z.html",
+    "bytes": 192000,
+    "sha256": "710b4af29437dbd4edc88380ba1fad3aff1e31d0a8c25f369c3f83e5ac8172ee"
+  },
+  {
+    "key": "whgovwire_html_2025-06-19T18:01:19.876Z",
+    "file": "whgovwire_html_2025-06-19T18:01:19.876Z.html",
+    "bytes": 191841,
+    "sha256": "daab7214e4764ff9574792f5d3330919d3120e62dc250297a7627ebc762803e8"
+  },
+  {
+    "key": "whgovwire_html_2025-06-20T18:01:19.883Z",
+    "file": "whgovwire_html_2025-06-20T18:01:19.883Z.html",
+    "bytes": 189540,
+    "sha256": "02b56ebe59073feb174861d71074c2c9bd8fddd1815dd2ed04235dbdba4354a8"
+  },
+  {
+    "key": "whgovwire_html_2025-06-21T18:01:20.002Z",
+    "file": "whgovwire_html_2025-06-21T18:01:20.002Z.html",
+    "bytes": 190806,
+    "sha256": "6024834e77b8b7226a084ca77252ffc601ffcbf00a0a80507e6dcbb473331c8e"
+  },
+  {
+    "key": "whgovwire_html_2025-06-22T18:01:20.101Z",
+    "file": "whgovwire_html_2025-06-22T18:01:20.101Z.html",
+    "bytes": 216884,
+    "sha256": "dbe308e3c23373508d328c1a9c243e4b7b0edb805935c281d0a60b427c6d894f"
+  },
+  {
+    "key": "whgovwire_html_2025-06-23T18:01:20.123Z",
+    "file": "whgovwire_html_2025-06-23T18:01:20.123Z.html",
+    "bytes": 190083,
+    "sha256": "b5a9e30c07ab60a150e60663ff36cab966405121abe7839e632d41ddc54dd7f2"
+  },
+  {
+    "key": "whgovwire_html_2025-06-24T18:01:20.282Z",
+    "file": "whgovwire_html_2025-06-24T18:01:20.282Z.html",
+    "bytes": 189795,
+    "sha256": "eaee2eeffad3c6c832cf486b5febaa00a1f949c3485e03fc29680f456b5ff65b"
+  },
+  {
+    "key": "whgovwire_html_2025-06-25T18:01:20.399Z",
+    "file": "whgovwire_html_2025-06-25T18:01:20.399Z.html",
+    "bytes": 191284,
+    "sha256": "312a2c165b10bf43c531cb346656b9eed8a0b5d1627ef0f6ec5756ac73743356"
+  },
+  {
+    "key": "whgovwire_html_2025-06-26T18:01:20.713Z",
+    "file": "whgovwire_html_2025-06-26T18:01:20.713Z.html",
+    "bytes": 191951,
+    "sha256": "6e5f6ef5e2b2cdc09a31b65f2db3555abee24b105d939e50ae7f5611a0d8b135"
+  },
+  {
+    "key": "whgovwire_html_2025-06-27T18:01:21.086Z",
+    "file": "whgovwire_html_2025-06-27T18:01:21.086Z.html",
+    "bytes": 217648,
+    "sha256": "68910567db562db301cb4dcba36839a41162f4c85991677d5e2a12e955d15b1a"
+  },
+  {
+    "key": "whgovwire_html_2025-06-28T18:01:21.426Z",
+    "file": "whgovwire_html_2025-06-28T18:01:21.426Z.html",
+    "bytes": 192206,
+    "sha256": "6d818ee6eba419b1e9de452b9d2dc74076d328e1a0460a916ba825bd904037e6"
+  },
+  {
+    "key": "whgovwire_html_2025-06-29T18:01:21.434Z",
+    "file": "whgovwire_html_2025-06-29T18:01:21.434Z.html",
+    "bytes": 218284,
+    "sha256": "31cafe65b6f5ad5ccbb7aea7cd5ff9790c73ae273bbbff2264a943145b88978f"
+  },
+  {
+    "key": "whgovwire_html_2025-06-30T18:01:21.364Z",
+    "file": "whgovwire_html_2025-06-30T18:01:21.364Z.html",
+    "bytes": 218322,
+    "sha256": "88f3914ed660f17749b4714ede09c4f0e6c4324b20f492bba13022638e4185d5"
+  },
+  {
+    "key": "whgovwire_html_2025-07-01T18:01:21.875Z",
+    "file": "whgovwire_html_2025-07-01T18:01:21.875Z.html",
+    "bytes": 217006,
+    "sha256": "33f7e9eec0def786044d05eb4715295ae63c7ce72037ef06b23d06405794df47"
+  },
+  {
+    "key": "whgovwire_html_2025-07-02T18:01:21.848Z",
+    "file": "whgovwire_html_2025-07-02T18:01:21.848Z.html",
+    "bytes": 191587,
+    "sha256": "ea7515c0cb485ea9eaeb82d6dd7c75346b5f990e976350cce5e93fe515ab0780"
+  },
+  {
+    "key": "whgovwire_html_2025-07-03T18:01:22.100Z",
+    "file": "whgovwire_html_2025-07-03T18:01:22.100Z.html",
+    "bytes": 191379,
+    "sha256": "3833d7e384f99a7be9033c83bfc15989e37ef93c4ad514e5d566eddcfabf57cb"
+  },
+  {
+    "key": "whgovwire_html_2025-07-04T18:01:22.219Z",
+    "file": "whgovwire_html_2025-07-04T18:01:22.219Z.html",
+    "bytes": 192133,
+    "sha256": "51487f59380dda9900f51b15fedabb196ed34b15fadfeb00bb171baee35a2fca"
+  },
+  {
+    "key": "whgovwire_html_2025-07-05T18:01:22.261Z",
+    "file": "whgovwire_html_2025-07-05T18:01:22.261Z.html",
+    "bytes": 192091,
+    "sha256": "f7c048d055196ef98bc00fa02a1810971aa22d093aaf3338f10eec1965361675"
+  },
+  {
+    "key": "whgovwire_html_2025-07-06T18:01:22.279Z",
+    "file": "whgovwire_html_2025-07-06T18:01:22.279Z.html",
+    "bytes": 192091,
+    "sha256": "f7c048d055196ef98bc00fa02a1810971aa22d093aaf3338f10eec1965361675"
+  },
+  {
+    "key": "whgovwire_html_2025-07-07T18:01:22.377Z",
+    "file": "whgovwire_html_2025-07-07T18:01:22.377Z.html",
+    "bytes": 191668,
+    "sha256": "055a5d2fff7f307d6c12f974ddcfc057fb5a47f1c1ccb434dc3faa1a1fdca2a4"
+  },
+  {
+    "key": "whgovwire_html_2025-07-08T18:01:22.404Z",
+    "file": "whgovwire_html_2025-07-08T18:01:22.404Z.html",
+    "bytes": 192325,
+    "sha256": "5f5cf1df2187e7acc5746f7de73da1302c4d7d88b3ef27328067dbf57f7a06f8"
+  },
+  {
+    "key": "whgovwire_html_2025-07-09T18:01:22.466Z",
+    "file": "whgovwire_html_2025-07-09T18:01:22.466Z.html",
+    "bytes": 191246,
+    "sha256": "ab4f000309e3c008274acbb620decd00c955e5bb7b54d656fe6b645df6bcb346"
+  },
+  {
+    "key": "whgovwire_html_2025-07-10T18:01:22.650Z",
+    "file": "whgovwire_html_2025-07-10T18:01:22.650Z.html",
+    "bytes": 190887,
+    "sha256": "5a2a98ee6ab067323bf5df926cab8d6d8676208c167ef84a8e52c4fed289f662"
+  },
+  {
+    "key": "whgovwire_html_2025-07-11T18:01:22.905Z",
+    "file": "whgovwire_html_2025-07-11T18:01:22.905Z.html",
+    "bytes": 190135,
+    "sha256": "e3190a57ce70304c9f826efc968579cd9e3c0aef2cab81e081784b5ea5e9fca5"
+  },
+  {
+    "key": "whgovwire_html_2025-07-12T18:01:22.969Z",
+    "file": "whgovwire_html_2025-07-12T18:01:22.969Z.html",
+    "bytes": 190713,
+    "sha256": "2417fff8b332d74dd28f9f80731b18e35c8c711cde89b2933f56093946db521d"
+  },
+  {
+    "key": "whgovwire_html_2025-07-13T18:01:23.052Z",
+    "file": "whgovwire_html_2025-07-13T18:01:23.052Z.html",
+    "bytes": 190713,
+    "sha256": "2417fff8b332d74dd28f9f80731b18e35c8c711cde89b2933f56093946db521d"
+  },
+  {
+    "key": "whgovwire_html_2025-07-14T18:01:23.190Z",
+    "file": "whgovwire_html_2025-07-14T18:01:23.190Z.html",
+    "bytes": 189961,
+    "sha256": "aef666fa07839fb0c9e25434ef4b56b52a6d383e19c295c5b33461558979468a"
+  },
+  {
+    "key": "whgovwire_html_2025-07-15T18:01:23.362Z",
+    "file": "whgovwire_html_2025-07-15T18:01:23.362Z.html",
+    "bytes": 190762,
+    "sha256": "5cda196768afb7d0bc28ea5f837f1dd93d96a12867b3313f0dfc0f10a4e715de"
+  },
+  {
+    "key": "whgovwire_html_2025-07-16T18:01:23.405Z",
+    "file": "whgovwire_html_2025-07-16T18:01:23.405Z.html",
+    "bytes": 191031,
+    "sha256": "9f0ed320048953400890e800ca77f2b02afedbe3b6b4e6cea04aa88548a56e1b"
+  },
+  {
+    "key": "whgovwire_html_2025-07-17T18:01:23.526Z",
+    "file": "whgovwire_html_2025-07-17T18:01:23.526Z.html",
+    "bytes": 190758,
+    "sha256": "2a2e4020d385ee38cb07595712891d79ee1bda980a06503e2453a45335f546d2"
+  },
+  {
+    "key": "whgovwire_html_2025-07-18T18:01:23.574Z",
+    "file": "whgovwire_html_2025-07-18T18:01:23.574Z.html",
+    "bytes": 191794,
+    "sha256": "0a9e7e0977d914baa8302c8e238fb5217b39747caf3686974bab5b65e2d7f515"
+  },
+  {
+    "key": "whgovwire_html_2025-07-19T18:01:23.562Z",
+    "file": "whgovwire_html_2025-07-19T18:01:23.562Z.html",
+    "bytes": 190630,
+    "sha256": "42291d8ccd9fda780a3247cb15308bfa7dc02dbe14a6d318012d0e4ee6335b55"
+  },
+  {
+    "key": "whgovwire_html_2025-07-20T18:01:23.685Z",
+    "file": "whgovwire_html_2025-07-20T18:01:23.685Z.html",
+    "bytes": 190630,
+    "sha256": "42291d8ccd9fda780a3247cb15308bfa7dc02dbe14a6d318012d0e4ee6335b55"
+  },
+  {
+    "key": "whgovwire_html_2025-07-21T18:01:23.967Z",
+    "file": "whgovwire_html_2025-07-21T18:01:23.967Z.html",
+    "bytes": 190706,
+    "sha256": "1be481625a808246ce5fda8c06d72b441b2e1d00b516526ad4d0811cecb8cd06"
+  },
+  {
+    "key": "whgovwire_html_2025-07-22T18:01:24.009Z",
+    "file": "whgovwire_html_2025-07-22T18:01:24.009Z.html",
+    "bytes": 189814,
+    "sha256": "4c675b0ee599a90a25cb48033c50c00caac333c1b0a43d82e2f33415f12d59f1"
+  },
+  {
+    "key": "whgovwire_html_2025-07-23T18:01:23.960Z",
+    "file": "whgovwire_html_2025-07-23T18:01:23.960Z.html",
+    "bytes": 190730,
+    "sha256": "21e610791aaf6c27495c9be21ace37bb300e1960f8fcbd9e67b7ea95d6ffddf6"
+  },
+  {
+    "key": "whgovwire_html_2025-07-24T18:01:24.097Z",
+    "file": "whgovwire_html_2025-07-24T18:01:24.097Z.html",
+    "bytes": 191345,
+    "sha256": "a75a9a741bf757e74ce7f5345fb7f44056d44d01346aa66ae79a5e9980ada7af"
+  },
+  {
+    "key": "whgovwire_html_2025-07-25T18:01:24.555Z",
+    "file": "whgovwire_html_2025-07-25T18:01:24.555Z.html",
+    "bytes": 190339,
+    "sha256": "5fa0980163988e46e425c41cf0d018dafa2fce86e29200d0aa4dd9ac99989423"
+  },
+  {
+    "key": "whgovwire_html_2025-07-26T18:01:25.073Z",
+    "file": "whgovwire_html_2025-07-26T18:01:25.073Z.html",
+    "bytes": 190339,
+    "sha256": "635f9708bb3943d94062d75d1707c6f7261b1b908fc0721b9e84f25c11e09a58"
+  },
+  {
+    "key": "whgovwire_html_2025-07-27T18:01:24.742Z",
+    "file": "whgovwire_html_2025-07-27T18:01:24.742Z.html",
+    "bytes": 216417,
+    "sha256": "53c7474a182dffb77179f25b8f21da91588d26caad71224281c568731cef87d3"
+  },
+  {
+    "key": "whgovwire_html_2025-07-28T18:01:25.044Z",
+    "file": "whgovwire_html_2025-07-28T18:01:25.044Z.html",
+    "bytes": 190755,
+    "sha256": "c21f3215b4d9aad5fb7e7b81f9af851a67a8792ce42af3095f0f37a0f04c4058"
+  },
+  {
+    "key": "whgovwire_html_2025-07-29T18:01:25.002Z",
+    "file": "whgovwire_html_2025-07-29T18:01:25.002Z.html",
+    "bytes": 191113,
+    "sha256": "d8939b4318c119324a0a7d429e51ee672356af0941e14966e010842897c3f258"
+  },
+  {
+    "key": "whgovwire_html_2025-07-30T18:01:25.435Z",
+    "file": "whgovwire_html_2025-07-30T18:01:25.435Z.html",
+    "bytes": 191427,
+    "sha256": "5e7504dddff8515b10a2fc437893b8ffed85d28cb4d458539813f20107da5539"
+  },
+  {
+    "key": "whgovwire_html_2025-07-31T18:01:25.542Z",
+    "file": "whgovwire_html_2025-07-31T18:01:25.542Z.html",
+    "bytes": 216374,
+    "sha256": "183126a34a358426396606446bf8234b5d525e372218404df82995fdac640622"
+  },
+  {
+    "key": "whgovwire_html_2025-08-01T18:01:25.750Z",
+    "file": "whgovwire_html_2025-08-01T18:01:25.750Z.html",
+    "bytes": 189803,
+    "sha256": "2df8d552d881b5175aef4fb9b39323ffbcb4206bbffa9e633b5a5f28aa8feb07"
+  },
+  {
+    "key": "whgovwire_html_2025-08-02T18:01:25.938Z",
+    "file": "whgovwire_html_2025-08-02T18:01:25.938Z.html",
+    "bytes": 189575,
+    "sha256": "02dbb336e46ad4302e6b8366a86f5aaf1013897ff88d8be7c42ffd11f3ae59f8"
+  },
+  {
+    "key": "whgovwire_html_2025-08-03T18:01:26.131Z",
+    "file": "whgovwire_html_2025-08-03T18:01:26.131Z.html",
+    "bytes": 189575,
+    "sha256": "02dbb336e46ad4302e6b8366a86f5aaf1013897ff88d8be7c42ffd11f3ae59f8"
+  },
+  {
+    "key": "whgovwire_html_2025-08-04T18:01:26.047Z",
+    "file": "whgovwire_html_2025-08-04T18:01:26.047Z.html",
+    "bytes": 191280,
+    "sha256": "3c7988a0377bdce36d8741bbb2cd943c389e6574a04f6d7293f481b8567ec55c"
+  },
+  {
+    "key": "whgovwire_html_2025-08-05T18:01:26.978Z",
+    "file": "whgovwire_html_2025-08-05T18:01:26.978Z.html",
+    "bytes": 190965,
+    "sha256": "a99f5320e53a58edaa81e524ae7a90628cde9b9bdf26d913fb3923ce1baacde5"
+  },
+  {
+    "key": "whgovwire_html_2025-08-06T18:01:27.064Z",
+    "file": "whgovwire_html_2025-08-06T18:01:27.064Z.html",
+    "bytes": 191209,
+    "sha256": "7a2d0766f1199222764b5532a0906cfad262497169651fce0cef809d19791987"
+  },
+  {
+    "key": "whgovwire_html_2025-08-07T18:01:28.139Z",
+    "file": "whgovwire_html_2025-08-07T18:01:28.139Z.html",
+    "bytes": 191536,
+    "sha256": "5d42d609375da0aed5e716c132b8ac8da9c4f05a6de53e216fd7499701696344"
+  },
+  {
+    "key": "whgovwire_html_2025-08-08T18:01:29.114Z",
+    "file": "whgovwire_html_2025-08-08T18:01:29.114Z.html",
+    "bytes": 190874,
+    "sha256": "96791b2cff4128e9d1ac35d8ba9efa697862f39538a6407c7bb0500ec093da0b"
+  },
+  {
+    "key": "whgovwire_html_2025-08-09T18:01:30.115Z",
+    "file": "whgovwire_html_2025-08-09T18:01:30.115Z.html",
+    "bytes": 190874,
+    "sha256": "7f9dfbe0c0a1d0b59f860e2b504caa68a21d75d8d416b9ce2e1a341780b324b3"
+  },
+  {
+    "key": "whgovwire_html_2025-08-10T18:01:31.515Z",
+    "file": "whgovwire_html_2025-08-10T18:01:31.515Z.html",
+    "bytes": 190874,
+    "sha256": "7f9dfbe0c0a1d0b59f860e2b504caa68a21d75d8d416b9ce2e1a341780b324b3"
+  },
+  {
+    "key": "whgovwire_html_2025-08-11T18:01:32.510Z",
+    "file": "whgovwire_html_2025-08-11T18:01:32.510Z.html",
+    "bytes": 191645,
+    "sha256": "bae06e8d8631118b2f022fbaa145b2c3047959ce3526934b976ad82e46a3688e"
+  },
+  {
+    "key": "whgovwire_html_2025-08-12T18:01:34.322Z",
+    "file": "whgovwire_html_2025-08-12T18:01:34.322Z.html",
+    "bytes": 190600,
+    "sha256": "f609c07fddfe5ffc8120c17ae1559f07b172f8cddc57ea90406c792b2455c9c8"
+  },
+  {
+    "key": "whgovwire_html_2025-08-13T18:01:35.176Z",
+    "file": "whgovwire_html_2025-08-13T18:01:35.176Z.html",
+    "bytes": 189951,
+    "sha256": "bd29a9c2bbad128f356ece4cc9aaa7be271c30d46f08bbd2ef8a245acbd36380"
+  },
+  {
+    "key": "whgovwire_html_2025-08-14T18:01:36.080Z",
+    "file": "whgovwire_html_2025-08-14T18:01:36.080Z.html",
+    "bytes": 216253,
+    "sha256": "a47055c276bb160a021e01297e7243387eeaa999622cd10adb14d1bcd0df412d"
+  },
+  {
+    "key": "whgovwire_html_2025-08-15T18:01:36.975Z",
+    "file": "whgovwire_html_2025-08-15T18:01:36.975Z.html",
+    "bytes": 188972,
+    "sha256": "4561be60b8e0fd5be060446a10582e57b7ddd17465f3d09ca6eb47832162f7b8"
+  },
+  {
+    "key": "whgovwire_html_2025-08-16T18:01:38.499Z",
+    "file": "whgovwire_html_2025-08-16T18:01:38.499Z.html",
+    "bytes": 189142,
+    "sha256": "59be43c1353e3f81fc4da8679479c2f7ce92fb1c61525c36ab01ae9f50a87701"
+  },
+  {
+    "key": "whgovwire_html_2025-08-17T18:01:39.491Z",
+    "file": "whgovwire_html_2025-08-17T18:01:39.491Z.html",
+    "bytes": 189142,
+    "sha256": "59be43c1353e3f81fc4da8679479c2f7ce92fb1c61525c36ab01ae9f50a87701"
+  },
+  {
+    "key": "whgovwire_html_2025-08-18T18:01:40.835Z",
+    "file": "whgovwire_html_2025-08-18T18:01:40.835Z.html",
+    "bytes": 190962,
+    "sha256": "1d046f450fafef2d99460569c78907f035773ce1b06237614ccb8329d57bd8e4"
+  },
+  {
+    "key": "whgovwire_html_2025-08-19T18:01:41.864Z",
+    "file": "whgovwire_html_2025-08-19T18:01:41.864Z.html",
+    "bytes": 215753,
+    "sha256": "6cb1d954b161507b18f19309008a56a5596112d7e41c38fbb98b9b5e471b09cf"
+  },
+  {
+    "key": "whgovwire_html_2025-08-20T18:01:42.865Z",
+    "file": "whgovwire_html_2025-08-20T18:01:42.865Z.html",
+    "bytes": 189920,
+    "sha256": "c00e8b39df3a16c2f2f06f47bd1ad410782fca9f073dd8d87a265360983483e3"
+  },
+  {
+    "key": "whgovwire_html_2025-08-21T18:01:44.285Z",
+    "file": "whgovwire_html_2025-08-21T18:01:44.285Z.html",
+    "bytes": 189499,
+    "sha256": "c6e2da9d742795e1f8121e3b3f7f4b7f527fc07fce8ece6d04b588c7f6cf7b0c"
+  },
+  {
+    "key": "whgovwire_html_2025-08-22T18:01:45.575Z",
+    "file": "whgovwire_html_2025-08-22T18:01:45.575Z.html",
+    "bytes": 190053,
+    "sha256": "d291e5486e4272ef53ec575581d390118bbf331e6a4f21b7d682ab4e540fc2a8"
+  },
+  {
+    "key": "whgovwire_html_2025-08-23T18:01:46.933Z",
+    "file": "whgovwire_html_2025-08-23T18:01:46.933Z.html",
+    "bytes": 190056,
+    "sha256": "410057586a9ab05be220e53c4324fb820d266c3bcd50124b55d1a49d91c80187"
+  },
+  {
+    "key": "whgovwire_html_2025-08-24T18:01:48.165Z",
+    "file": "whgovwire_html_2025-08-24T18:01:48.165Z.html",
+    "bytes": 190056,
+    "sha256": "410057586a9ab05be220e53c4324fb820d266c3bcd50124b55d1a49d91c80187"
+  },
+  {
+    "key": "whgovwire_html_2025-08-25T18:01:49.755Z",
+    "file": "whgovwire_html_2025-08-25T18:01:49.755Z.html",
+    "bytes": 190590,
+    "sha256": "b13df929c05819258c6644ad75e069367137b27ae45f03ac96f466476fa02a23"
+  },
+  {
+    "key": "whgovwire_html_2025-08-26T18:01:50.713Z",
+    "file": "whgovwire_html_2025-08-26T18:01:50.713Z.html",
+    "bytes": 190385,
+    "sha256": "c50ff342a903bc45be806e169584d61f73848eea4dd036bbd8767937cbd5c659"
+  },
+  {
+    "key": "whgovwire_html_2025-08-27T18:01:51.630Z",
+    "file": "whgovwire_html_2025-08-27T18:01:51.630Z.html",
+    "bytes": 190451,
+    "sha256": "e7012df53adba0097a5d6b252e02a83cbcad6210544e99b75a19c175083139a8"
+  },
+  {
+    "key": "whgovwire_html_2025-08-28T18:01:52.737Z",
+    "file": "whgovwire_html_2025-08-28T18:01:52.737Z.html",
+    "bytes": 216868,
+    "sha256": "425ed8ebbedb4c9600be198ee88c6caab49a1567605186d2681b298d20f0637b"
+  },
+  {
+    "key": "whgovwire_html_2025-08-29T18:01:53.742Z",
+    "file": "whgovwire_html_2025-08-29T18:01:53.742Z.html",
+    "bytes": 190825,
+    "sha256": "fda2c45c04a3fe9cf94bf19d4bc87dc7a40f32b3954dc9e57601d5241ef9343a"
+  },
+  {
+    "key": "whgovwire_html_2025-08-30T18:01:54.847Z",
+    "file": "whgovwire_html_2025-08-30T18:01:54.847Z.html",
+    "bytes": 216966,
+    "sha256": "125196494307e96bd249dab60547bbf045552abbd61eb854fbc98faac08f41c0"
+  },
+  {
+    "key": "whgovwire_html_2025-08-31T18:01:55.773Z",
+    "file": "whgovwire_html_2025-08-31T18:01:55.773Z.html",
+    "bytes": 190545,
+    "sha256": "aaec9e146fd46f706eb4433336853fe436659da91cb09a32aa32b2c54a174038"
+  },
+  {
+    "key": "whgovwire_html_2025-09-01T18:01:56.936Z",
+    "file": "whgovwire_html_2025-09-01T18:01:56.936Z.html",
+    "bytes": 191711,
+    "sha256": "21a9ebc964411747d651abae578ef6015ee4c47d8ff25422edde64cd894b45ba"
+  },
+  {
+    "key": "whgovwire_html_2025-09-02T18:01:57.898Z",
+    "file": "whgovwire_html_2025-09-02T18:01:57.898Z.html",
+    "bytes": 190761,
+    "sha256": "cd7d5e57a7c13ebfc9cc6d833e4f484a54afce4fd7aa8754728b6079d452cb26"
+  },
+  {
+    "key": "whgovwire_html_2025-09-03T18:01:58.753Z",
+    "file": "whgovwire_html_2025-09-03T18:01:58.753Z.html",
+    "bytes": 191166,
+    "sha256": "26a86046bad129d99722e6cdc55f83795a7ae246b3114b44a24379bac7dd840b"
+  },
+  {
+    "key": "whgovwire_html_2025-09-04T18:01:59.792Z",
+    "file": "whgovwire_html_2025-09-04T18:01:59.792Z.html",
+    "bytes": 190970,
+    "sha256": "43df5c8a2ee398289fed7a43c89f6f7dca1bcebc4fa51913ebb161a2f4231e24"
+  },
+  {
+    "key": "whgovwire_html_2025-09-05T18:02:00.685Z",
+    "file": "whgovwire_html_2025-09-05T18:02:00.685Z.html",
+    "bytes": 218197,
+    "sha256": "7e6b743fdbc31840aa5abd6ec506ddc571270d9ad06af6764cc7b914adb7b379"
+  },
+  {
+    "key": "whgovwire_html_2025-09-06T18:02:02.987Z",
+    "file": "whgovwire_html_2025-09-06T18:02:02.987Z.html",
+    "bytes": 191776,
+    "sha256": "63ef4f3a6354207b3fe0a425c18b0941c894ad341cc0edfad4e83aa6873cd206"
+  },
+  {
+    "key": "whgovwire_html_2025-09-07T18:02:03.867Z",
+    "file": "whgovwire_html_2025-09-07T18:02:03.867Z.html",
+    "bytes": 218197,
+    "sha256": "a15f046cfcf7605d8ef8c39514dfa5ac60001fff62d4bae5bafac953307c79ba"
+  },
+  {
+    "key": "whgovwire_html_2025-09-08T18:02:04.803Z",
+    "file": "whgovwire_html_2025-09-08T18:02:04.803Z.html",
+    "bytes": 191973,
+    "sha256": "4f20f7f1fe0e94ba858ca1863f02f4773fee0746d9edb5fda3dc1fde756c1cc3"
+  },
+  {
+    "key": "whgovwire_html_2025-09-09T18:02:05.700Z",
+    "file": "whgovwire_html_2025-09-09T18:02:05.700Z.html",
+    "bytes": 217968,
+    "sha256": "2e5179f19017ad064044f9959e30b44fac0254060023059b4cd282810b9344ae"
+  },
+  {
+    "key": "whgovwire_html_2025-09-10T18:02:07.014Z",
+    "file": "whgovwire_html_2025-09-10T18:02:07.014Z.html",
+    "bytes": 190884,
+    "sha256": "200960e36248dd6bc8be0955268df671fae516967668bf6eca85f272758a96ca"
+  },
+  {
+    "key": "whgovwire_html_2025-09-11T18:02:08.027Z",
+    "file": "whgovwire_html_2025-09-11T18:02:08.027Z.html",
+    "bytes": 191317,
+    "sha256": "bf930346816c2faa02da9d30d753c860f7e24eac67cafe4bdbc66ff101b6e1e0"
+  },
+  {
+    "key": "whgovwire_html_2025-09-12T18:02:09.074Z",
+    "file": "whgovwire_html_2025-09-12T18:02:09.074Z.html",
+    "bytes": 191061,
+    "sha256": "0e44564bb4520bfe02b49363ca35d995185c42fc7374e169817f3d832c5a7355"
+  },
+  {
+    "key": "whgovwire_html_2025-09-13T18:02:10.110Z",
+    "file": "whgovwire_html_2025-09-13T18:02:10.110Z.html",
+    "bytes": 191061,
+    "sha256": "18e076b134a65acd5fe8def14548e88b228287174ecfda9148572cb240b1af6f"
+  },
+  {
+    "key": "whgovwire_html_2025-09-14T18:02:11.367Z",
+    "file": "whgovwire_html_2025-09-14T18:02:11.367Z.html",
+    "bytes": 217482,
+    "sha256": "fc812efb60cdfe4b3867b0790623f08c965bc8a65ab793dbee2961f34df1a3db"
+  },
+  {
+    "key": "whgovwire_html_2025-09-15T18:02:12.962Z",
+    "file": "whgovwire_html_2025-09-15T18:02:12.962Z.html",
+    "bytes": 191353,
+    "sha256": "153d88b651849e0ea33514a84175796203b39bfa87a6be748d23cda90837cf47"
+  },
+  {
+    "key": "whgovwire_html_2025-09-16T18:02:14.033Z",
+    "file": "whgovwire_html_2025-09-16T18:02:14.033Z.html",
+    "bytes": 217465,
+    "sha256": "05c621bb7d14b0d8586c585115c4ec7fea5c2fcbedae2cf98eec3d4690361901"
+  },
+  {
+    "key": "whgovwire_html_2025-09-17T18:02:15.043Z",
+    "file": "whgovwire_html_2025-09-17T18:02:15.043Z.html",
+    "bytes": 191582,
+    "sha256": "7652be2e983a1abf62f558c5ab5db688462e90b5af98c1129f6ca934f59425ab"
+  },
+  {
+    "key": "whgovwire_html_2025-09-18T18:02:16.023Z",
+    "file": "whgovwire_html_2025-09-18T18:02:16.023Z.html",
+    "bytes": 190062,
+    "sha256": "6712368005552df4802b4176db7613f19f3a3fb13c4b444e03cf55097cfca2f8"
+  },
+  {
+    "key": "whgovwire_html_2025-09-19T18:02:17.068Z",
+    "file": "whgovwire_html_2025-09-19T18:02:17.068Z.html",
+    "bytes": 218209,
+    "sha256": "248466d203acb451497a29f98b620eac748108692b6cb571ad85a1bcfdd0dd4e"
+  },
+  {
+    "key": "whgovwire_html_2025-09-20T18:02:17.919Z",
+    "file": "whgovwire_html_2025-09-20T18:02:17.919Z.html",
+    "bytes": 191618,
+    "sha256": "72b1e2c2fb677e9f70ac3cc5761fa5f548c662bc89717842c7ddc6c66f620dba"
+  },
+  {
+    "key": "whgovwire_html_2025-09-21T18:02:18.825Z",
+    "file": "whgovwire_html_2025-09-21T18:02:18.825Z.html",
+    "bytes": 191618,
+    "sha256": "72b1e2c2fb677e9f70ac3cc5761fa5f548c662bc89717842c7ddc6c66f620dba"
+  },
+  {
+    "key": "whgovwire_html_2025-09-22T18:02:19.588Z",
+    "file": "whgovwire_html_2025-09-22T18:02:19.588Z.html",
+    "bytes": 191110,
+    "sha256": "ef58899a585063e4650ea5468f57e30517ce5387341f6eee0b3aa150710586a1"
+  },
+  {
+    "key": "whgovwire_html_2025-09-23T18:02:20.500Z",
+    "file": "whgovwire_html_2025-09-23T18:02:20.500Z.html",
+    "bytes": 192001,
+    "sha256": "740e3558a91c74dd4201b159a1e9797e737152588adf636cc86259136e781a8b"
+  },
+  {
+    "key": "whgovwire_html_2025-09-24T18:02:21.415Z",
+    "file": "whgovwire_html_2025-09-24T18:02:21.415Z.html",
+    "bytes": 217289,
+    "sha256": "931f55d8e4333eb6d8146e99f76184cfbc48bd53eb47631828becd2ad36ed8e0"
+  },
+  {
+    "key": "whgovwire_html_2025-09-25T18:02:22.650Z",
+    "file": "whgovwire_html_2025-09-25T18:02:22.650Z.html",
+    "bytes": 192255,
+    "sha256": "168b7f72231c5007e559b66a7da6bf0c25f5ed77a210e0f798d0350e88a7bd40"
+  },
+  {
+    "key": "whgovwire_html_2025-09-26T18:02:24.262Z",
+    "file": "whgovwire_html_2025-09-26T18:02:24.262Z.html",
+    "bytes": 192853,
+    "sha256": "1f8b97d0466b90006478eecc03df27ada47f5b20cb14e8dd6558d692474ad4ec"
+  },
+  {
+    "key": "whgovwire_html_2025-09-27T18:02:25.389Z",
+    "file": "whgovwire_html_2025-09-27T18:02:25.389Z.html",
+    "bytes": 191617,
+    "sha256": "6b47ad6b648f00b552a9214a0ba4eab1493e39f32e9b9ea9a7e088b616774e19"
+  },
+  {
+    "key": "whgovwire_html_2025-09-28T18:02:26.507Z",
+    "file": "whgovwire_html_2025-09-28T18:02:26.507Z.html",
+    "bytes": 191617,
+    "sha256": "6b47ad6b648f00b552a9214a0ba4eab1493e39f32e9b9ea9a7e088b616774e19"
+  },
+  {
+    "key": "whgovwire_html_2025-09-29T18:02:27.304Z",
+    "file": "whgovwire_html_2025-09-29T18:02:27.304Z.html",
+    "bytes": 191781,
+    "sha256": "b26917198f0bee6f4a5df11d964d0f3e2a6c385547b2b207afa780c0d0817de4"
+  },
+  {
+    "key": "whgovwire_html_2025-09-30T18:02:28.092Z",
+    "file": "whgovwire_html_2025-09-30T18:02:28.092Z.html",
+    "bytes": 190942,
+    "sha256": "b9a21e05d754217db5a5d2930ae10c2b1806c5f0549a5e99518d8ec486324581"
+  },
+  {
+    "key": "whgovwire_html_2025-10-01T18:02:30.639Z",
+    "file": "whgovwire_html_2025-10-01T18:02:30.639Z.html",
+    "bytes": 191355,
+    "sha256": "d777425862be4499686e459c86ee1575fa078b7eb4b167d2d00110c8f6070e4e"
+  },
+  {
+    "key": "whgovwire_html_2025-10-02T18:02:31.671Z",
+    "file": "whgovwire_html_2025-10-02T18:02:31.671Z.html",
+    "bytes": 191355,
+    "sha256": "a3710ca2c1f691f28ff808305786d6b64e461fa4be4fc150b6454d52569807b9"
+  },
+  {
+    "key": "whgovwire_html_2025-10-03T18:02:33.023Z",
+    "file": "whgovwire_html_2025-10-03T18:02:33.023Z.html",
+    "bytes": 191355,
+    "sha256": "a3710ca2c1f691f28ff808305786d6b64e461fa4be4fc150b6454d52569807b9"
+  },
+  {
+    "key": "whgovwire_html_2025-10-04T18:02:33.894Z",
+    "file": "whgovwire_html_2025-10-04T18:02:33.894Z.html",
+    "bytes": 191355,
+    "sha256": "a3710ca2c1f691f28ff808305786d6b64e461fa4be4fc150b6454d52569807b9"
+  },
+  {
+    "key": "whgovwire_html_2025-10-05T18:02:34.727Z",
+    "file": "whgovwire_html_2025-10-05T18:02:34.727Z.html",
+    "bytes": 191355,
+    "sha256": "a3710ca2c1f691f28ff808305786d6b64e461fa4be4fc150b6454d52569807b9"
+  },
+  {
+    "key": "whgovwire_html_2025-10-06T18:02:36.700Z",
+    "file": "whgovwire_html_2025-10-06T18:02:36.700Z.html",
+    "bytes": 191355,
+    "sha256": "88887588d1655478f5b5c81e2589cdc151c583dbd3ae47f0a0957c3e51b14b58"
+  },
+  {
+    "key": "whgovwire_html_2025-10-07T18:02:39.168Z",
+    "file": "whgovwire_html_2025-10-07T18:02:39.168Z.html",
+    "bytes": 191355,
+    "sha256": "9f62e8bc990c881b999286f1a12a8b17550f79acdb0e162afd5ec7cd77a6119a"
+  },
+  {
+    "key": "whgovwire_html_2025-10-08T18:02:40.235Z",
+    "file": "whgovwire_html_2025-10-08T18:02:40.235Z.html",
+    "bytes": 191355,
+    "sha256": "9f62e8bc990c881b999286f1a12a8b17550f79acdb0e162afd5ec7cd77a6119a"
+  },
+  {
+    "key": "whgovwire_html_2025-10-09T18:02:41.076Z",
+    "file": "whgovwire_html_2025-10-09T18:02:41.076Z.html",
+    "bytes": 191355,
+    "sha256": "ff9d9c9e25faa059215e99737272998ffbc360474bc21403eaf801c723765cb7"
+  },
+  {
+    "key": "whgovwire_html_2025-10-10T18:02:42.143Z",
+    "file": "whgovwire_html_2025-10-10T18:02:42.143Z.html",
+    "bytes": 191355,
+    "sha256": "e4e0220dc654262e02eab5a06fcae475aebb5926eabcdf0bcdeae36302776af5"
+  },
+  {
+    "key": "whgovwire_html_2025-10-11T18:02:44.440Z",
+    "file": "whgovwire_html_2025-10-11T18:02:44.440Z.html",
+    "bytes": 191355,
+    "sha256": "e4e0220dc654262e02eab5a06fcae475aebb5926eabcdf0bcdeae36302776af5"
+  },
+  {
+    "key": "whgovwire_html_2025-10-12T18:02:45.334Z",
+    "file": "whgovwire_html_2025-10-12T18:02:45.334Z.html",
+    "bytes": 191355,
+    "sha256": "e4e0220dc654262e02eab5a06fcae475aebb5926eabcdf0bcdeae36302776af5"
+  },
+  {
+    "key": "whgovwire_html_2025-10-13T18:02:50.074Z",
+    "file": "whgovwire_html_2025-10-13T18:02:50.074Z.html",
+    "bytes": 191355,
+    "sha256": "e4e0220dc654262e02eab5a06fcae475aebb5926eabcdf0bcdeae36302776af5"
+  },
+  {
+    "key": "whgovwire_html_2025-10-14T18:02:50.908Z",
+    "file": "whgovwire_html_2025-10-14T18:02:50.908Z.html",
+    "bytes": 191355,
+    "sha256": "e4e0220dc654262e02eab5a06fcae475aebb5926eabcdf0bcdeae36302776af5"
+  },
+  {
+    "key": "whgovwire_html_2025-10-15T18:02:52.325Z",
+    "file": "whgovwire_html_2025-10-15T18:02:52.325Z.html",
+    "bytes": 191355,
+    "sha256": "e4e0220dc654262e02eab5a06fcae475aebb5926eabcdf0bcdeae36302776af5"
+  },
+  {
+    "key": "whgovwire_html_2025-10-16T18:02:53.731Z",
+    "file": "whgovwire_html_2025-10-16T18:02:53.731Z.html",
+    "bytes": 191355,
+    "sha256": "e4e0220dc654262e02eab5a06fcae475aebb5926eabcdf0bcdeae36302776af5"
+  },
+  {
+    "key": "whgovwire_html_2025-10-17T18:02:59.198Z",
+    "file": "whgovwire_html_2025-10-17T18:02:59.198Z.html",
+    "bytes": 191355,
+    "sha256": "e4e0220dc654262e02eab5a06fcae475aebb5926eabcdf0bcdeae36302776af5"
+  },
+  {
+    "key": "whgovwire_html_2025-10-18T18:03:00.574Z",
+    "file": "whgovwire_html_2025-10-18T18:03:00.574Z.html",
+    "bytes": 191355,
+    "sha256": "162d47732107aa6dc51cf6ca00b7b2b505e1a4945684d5a8e5335200a93dbc96"
+  },
+  {
+    "key": "whgovwire_html_2025-10-19T18:03:02.528Z",
+    "file": "whgovwire_html_2025-10-19T18:03:02.528Z.html",
+    "bytes": 191355,
+    "sha256": "162d47732107aa6dc51cf6ca00b7b2b505e1a4945684d5a8e5335200a93dbc96"
+  },
+  {
+    "key": "whgovwire_html_2025-10-20T18:03:03.466Z",
+    "file": "whgovwire_html_2025-10-20T18:03:03.466Z.html",
+    "bytes": 191355,
+    "sha256": "162d47732107aa6dc51cf6ca00b7b2b505e1a4945684d5a8e5335200a93dbc96"
+  },
+  {
+    "key": "whgovwire_html_2025-10-21T18:03:04.636Z",
+    "file": "whgovwire_html_2025-10-21T18:03:04.636Z.html",
+    "bytes": 217988,
+    "sha256": "b22bd7e4dc227a387ba7f2fe2df0ea61e4365a880bc9b14f3d3dbc3b338ddbf1"
+  },
+  {
+    "key": "whgovwire_html_2025-10-22T18:03:05.737Z",
+    "file": "whgovwire_html_2025-10-22T18:03:05.737Z.html",
+    "bytes": 191355,
+    "sha256": "a8c5d618dc8c02cd9480eaebdb68dd42ffc01121a92954dddc107ffd3e8d28a1"
+  },
+  {
+    "key": "whgovwire_html_2025-10-23T18:03:06.782Z",
+    "file": "whgovwire_html_2025-10-23T18:03:06.782Z.html",
+    "bytes": 191355,
+    "sha256": "a8c5d618dc8c02cd9480eaebdb68dd42ffc01121a92954dddc107ffd3e8d28a1"
+  },
+  {
+    "key": "whgovwire_html_2025-10-24T18:03:07.931Z",
+    "file": "whgovwire_html_2025-10-24T18:03:07.931Z.html",
+    "bytes": 191765,
+    "sha256": "98817ebce38c954a333f267c69993feeb93afe69c7acc3bbb0c7b9c7f15ffb4d"
+  },
+  {
+    "key": "whgovwire_html_2025-10-25T18:03:08.843Z",
+    "file": "whgovwire_html_2025-10-25T18:03:08.843Z.html",
+    "bytes": 218002,
+    "sha256": "d05658fab81e19288455a398595034d3b55986308da552de80bf52a55bb5d172"
+  },
+  {
+    "key": "whgovwire_html_2025-10-26T18:03:09.833Z",
+    "file": "whgovwire_html_2025-10-26T18:03:09.833Z.html",
+    "bytes": 191765,
+    "sha256": "98817ebce38c954a333f267c69993feeb93afe69c7acc3bbb0c7b9c7f15ffb4d"
+  },
+  {
+    "key": "whgovwire_html_2025-10-27T18:03:10.819Z",
+    "file": "whgovwire_html_2025-10-27T18:03:10.819Z.html",
+    "bytes": 191765,
+    "sha256": "98817ebce38c954a333f267c69993feeb93afe69c7acc3bbb0c7b9c7f15ffb4d"
+  },
+  {
+    "key": "whgovwire_html_2025-10-28T18:03:12.146Z",
+    "file": "whgovwire_html_2025-10-28T18:03:12.146Z.html",
+    "bytes": 191770,
+    "sha256": "693cc061605e4d43bbeada6a398c3adee3819215e4cc8f1be7973894a56ed4f5"
+  },
+  {
+    "key": "whgovwire_html_2025-10-29T18:03:12.965Z",
+    "file": "whgovwire_html_2025-10-29T18:03:12.965Z.html",
+    "bytes": 191770,
+    "sha256": "693cc061605e4d43bbeada6a398c3adee3819215e4cc8f1be7973894a56ed4f5"
+  },
+  {
+    "key": "whgovwire_html_2025-10-30T18:03:14.546Z",
+    "file": "whgovwire_html_2025-10-30T18:03:14.546Z.html",
+    "bytes": 191770,
+    "sha256": "693cc061605e4d43bbeada6a398c3adee3819215e4cc8f1be7973894a56ed4f5"
+  },
+  {
+    "key": "whgovwire_html_2025-10-31T18:03:15.314Z",
+    "file": "whgovwire_html_2025-10-31T18:03:15.314Z.html",
+    "bytes": 191770,
+    "sha256": "693cc061605e4d43bbeada6a398c3adee3819215e4cc8f1be7973894a56ed4f5"
+  },
+  {
+    "key": "whgovwire_html_2025-11-01T18:03:16.367Z",
+    "file": "whgovwire_html_2025-11-01T18:03:16.367Z.html",
+    "bytes": 191770,
+    "sha256": "a5d59e76e5c61b9ca091647cc8e3ab21dada486048d79a317d629f6ab3a7a15f"
+  },
+  {
+    "key": "whgovwire_html_2025-11-02T18:03:17.538Z",
+    "file": "whgovwire_html_2025-11-02T18:03:17.538Z.html",
+    "bytes": 191770,
+    "sha256": "a5d59e76e5c61b9ca091647cc8e3ab21dada486048d79a317d629f6ab3a7a15f"
+  },
+  {
+    "key": "whgovwire_html_2025-11-03T18:03:18.531Z",
+    "file": "whgovwire_html_2025-11-03T18:03:18.531Z.html",
+    "bytes": 191770,
+    "sha256": "a5d59e76e5c61b9ca091647cc8e3ab21dada486048d79a317d629f6ab3a7a15f"
+  },
+  {
+    "key": "whgovwire_html_2025-11-04T18:03:19.630Z",
+    "file": "whgovwire_html_2025-11-04T18:03:19.630Z.html",
+    "bytes": 218278,
+    "sha256": "956f95f14df4e4b6b18b478b7ba3b52a5a38d78a76882a31997d578362ff8a6d"
+  },
+  {
+    "key": "whgovwire_html_2025-11-05T18:03:21.129Z",
+    "file": "whgovwire_html_2025-11-05T18:03:21.129Z.html",
+    "bytes": 218278,
+    "sha256": "9519ad172bea1b79d12905e89a0f4fb628266f370c7c015aff417f0bf6c220df"
+  },
+  {
+    "key": "whgovwire_html_2025-11-06T18:03:22.724Z",
+    "file": "whgovwire_html_2025-11-06T18:03:22.724Z.html",
+    "bytes": 191770,
+    "sha256": "0df71ee38cce60694647da8312725515944dcf62f2bf410ee66e19adafc34b22"
+  },
+  {
+    "key": "whgovwire_html_2025-11-07T18:03:23.563Z",
+    "file": "whgovwire_html_2025-11-07T18:03:23.563Z.html",
+    "bytes": 193259,
+    "sha256": "fb6f81e86bdedd401a7f399f953f6e1128ea692827fa453451b8f499d4bc11a2"
+  },
+  {
+    "key": "whgovwire_html_2025-11-08T18:03:24.374Z",
+    "file": "whgovwire_html_2025-11-08T18:03:24.374Z.html",
+    "bytes": 219767,
+    "sha256": "b6fd9d3c1e2e9a18085a35fe475d9b8e1f20438dca3d44043d0b659bb9db5744"
+  },
+  {
+    "key": "whgovwire_html_2025-11-09T18:03:25.835Z",
+    "file": "whgovwire_html_2025-11-09T18:03:25.835Z.html",
+    "bytes": 193259,
+    "sha256": "fb6f81e86bdedd401a7f399f953f6e1128ea692827fa453451b8f499d4bc11a2"
+  },
+  {
+    "key": "whgovwire_html_2025-11-10T18:03:26.623Z",
+    "file": "whgovwire_html_2025-11-10T18:03:26.623Z.html",
+    "bytes": 193259,
+    "sha256": "fb6f81e86bdedd401a7f399f953f6e1128ea692827fa453451b8f499d4bc11a2"
+  },
+  {
+    "key": "whgovwire_html_2025-11-11T18:03:27.562Z",
+    "file": "whgovwire_html_2025-11-11T18:03:27.562Z.html",
+    "bytes": 193255,
+    "sha256": "c6fc2270e2968210ea514c444ad4c84aa1fa6f6da1f8655a3a0ad45f9aae53c2"
+  },
+  {
+    "key": "whgovwire_html_2025-11-12T18:03:28.344Z",
+    "file": "whgovwire_html_2025-11-12T18:03:28.344Z.html",
+    "bytes": 193255,
+    "sha256": "c9300a2951d88e77c6ec159cae279205799f7f8b79f372489e98141b31d88e51"
+  },
+  {
+    "key": "whgovwire_html_2025-11-13T18:03:29.257Z",
+    "file": "whgovwire_html_2025-11-13T18:03:29.257Z.html",
+    "bytes": 193796,
+    "sha256": "1e67150a272baf071c01ea2ba936bda6aef6d8bd30cb3af34f6e93df137c76d1"
+  },
+  {
+    "key": "whgovwire_html_2025-11-14T18:03:30.174Z",
+    "file": "whgovwire_html_2025-11-14T18:03:30.174Z.html",
+    "bytes": 193115,
+    "sha256": "f35330dcf6a2c7bc1c584fa0bc2bc8a781ef2a938e1f7d8cfcbc90d48efe230f"
+  },
+  {
+    "key": "whgovwire_html_2025-11-15T18:03:31.142Z",
+    "file": "whgovwire_html_2025-11-15T18:03:31.142Z.html",
+    "bytes": 194687,
+    "sha256": "d3e327c18398609113d632c181d8fd1c9f6faf4587ba05ebb768afa44a7aaa23"
+  },
+  {
+    "key": "whgovwire_html_2025-11-16T18:03:31.900Z",
+    "file": "whgovwire_html_2025-11-16T18:03:31.900Z.html",
+    "bytes": 194687,
+    "sha256": "d3e327c18398609113d632c181d8fd1c9f6faf4587ba05ebb768afa44a7aaa23"
+  },
+  {
+    "key": "whgovwire_html_2025-11-17T18:03:32.720Z",
+    "file": "whgovwire_html_2025-11-17T18:03:32.720Z.html",
+    "bytes": 194401,
+    "sha256": "c5a5975177939f78c47e3fcc5e4ff414e8b0ebb2239036b6d48a161f1e4e6ad8"
+  },
+  {
+    "key": "whgovwire_html_2025-11-18T18:03:33.589Z",
+    "file": "whgovwire_html_2025-11-18T18:03:33.589Z.html",
+    "bytes": 195623,
+    "sha256": "0680ac74828630e484adaa68aba6660e3b09be0a33c319359c48d8cb5f000680"
+  },
+  {
+    "key": "whgovwire_html_2025-11-19T18:03:34.431Z",
+    "file": "whgovwire_html_2025-11-19T18:03:34.431Z.html",
+    "bytes": 195982,
+    "sha256": "c325a2ffd7294bc5444a4e0ee5466e3c0054c6c87f11cc08c264117226c2f3e5"
+  },
+  {
+    "key": "whgovwire_html_2025-11-20T18:03:35.513Z",
+    "file": "whgovwire_html_2025-11-20T18:03:35.513Z.html",
+    "bytes": 195743,
+    "sha256": "02c88b0028b3ce49564614498ebe4016d578ae7a164fcd58782010fadb7b99c5"
+  },
+  {
+    "key": "whgovwire_html_2025-11-21T18:03:36.662Z",
+    "file": "whgovwire_html_2025-11-21T18:03:36.662Z.html",
+    "bytes": 195327,
+    "sha256": "03d4c9764c29a6e2657c6050a7091016321de41dc95981fd8a866b8c701a4d14"
+  },
+  {
+    "key": "whgovwire_html_2025-11-22T18:03:38.072Z",
+    "file": "whgovwire_html_2025-11-22T18:03:38.072Z.html",
+    "bytes": 195327,
+    "sha256": "03d4c9764c29a6e2657c6050a7091016321de41dc95981fd8a866b8c701a4d14"
+  },
+  {
+    "key": "whgovwire_html_2025-11-23T18:03:38.941Z",
+    "file": "whgovwire_html_2025-11-23T18:03:38.941Z.html",
+    "bytes": 195327,
+    "sha256": "03d4c9764c29a6e2657c6050a7091016321de41dc95981fd8a866b8c701a4d14"
+  },
+  {
+    "key": "whgovwire_html_2025-11-24T18:03:39.816Z",
+    "file": "whgovwire_html_2025-11-24T18:03:39.816Z.html",
+    "bytes": 195643,
+    "sha256": "0409f9219803717728c0a25646c3830325dc24afdc26e651846f9669c6952be5"
+  },
+  {
+    "key": "whgovwire_html_2025-11-25T18:03:40.715Z",
+    "file": "whgovwire_html_2025-11-25T18:03:40.715Z.html",
+    "bytes": 224101,
+    "sha256": "af6f57b0989180a94fb81b85666b5c86953bd46493733862917d4b55948cf0a0"
+  },
+  {
+    "key": "whgovwire_html_2025-11-26T18:03:41.941Z",
+    "file": "whgovwire_html_2025-11-26T18:03:41.941Z.html",
+    "bytes": 224688,
+    "sha256": "69273c500c77979435a380d46fdf4ba3a4aab20c56ed483295153dd5da167b4c"
+  },
+  {
+    "key": "whgovwire_html_2025-11-27T18:03:42.893Z",
+    "file": "whgovwire_html_2025-11-27T18:03:42.893Z.html",
+    "bytes": 197673,
+    "sha256": "eff42b0f85bdabb2317ae5f276b29f293d25eee7748b971cb887f4cac2a9613c"
+  },
+  {
+    "key": "whgovwire_html_2025-11-28T18:03:44.262Z",
+    "file": "whgovwire_html_2025-11-28T18:03:44.262Z.html",
+    "bytes": 197673,
+    "sha256": "eff42b0f85bdabb2317ae5f276b29f293d25eee7748b971cb887f4cac2a9613c"
+  },
+  {
+    "key": "whgovwire_html_2025-11-29T18:03:45.009Z",
+    "file": "whgovwire_html_2025-11-29T18:03:45.009Z.html",
+    "bytes": 225064,
+    "sha256": "589bbab9d97aa35a0e09294bb11b5f6c9860d6db8d81034c1eb316c94a03c63a"
+  },
+  {
+    "key": "whgovwire_html_2025-11-30T18:03:45.755Z",
+    "file": "whgovwire_html_2025-11-30T18:03:45.755Z.html",
+    "bytes": 198049,
+    "sha256": "e8a61b438b4b457ba9509d5aeaad940d426549de41dd90609490b47dd2bab39c"
+  },
+  {
+    "key": "whgovwire_html_2025-12-01T18:03:46.771Z",
+    "file": "whgovwire_html_2025-12-01T18:03:46.771Z.html",
+    "bytes": 197205,
+    "sha256": "360fdcbbc43cb997c1c5dd1b3e6388382be13dd80265fd8894219dec1409f06b"
+  },
+  {
+    "key": "whgovwire_html_2025-12-02T18:03:47.670Z",
+    "file": "whgovwire_html_2025-12-02T18:03:47.670Z.html",
+    "bytes": 197936,
+    "sha256": "c2439a08ec327512ea8bf6075912eb892e9c4ab02c1734ffe96b769148a0f5de"
+  },
+  {
+    "key": "whgovwire_html_2025-12-03T18:03:48.489Z",
+    "file": "whgovwire_html_2025-12-03T18:03:48.489Z.html",
+    "bytes": 199096,
+    "sha256": "0c9f86b7469025fffcc53e110fcd935b98467ce47105973a90d50f7a3a5645e8"
+  },
+  {
+    "key": "whgovwire_html_2025-12-04T18:03:49.340Z",
+    "file": "whgovwire_html_2025-12-04T18:03:49.340Z.html",
+    "bytes": 196982,
+    "sha256": "232b450250394ae39f59460c15c00123ba1dcc95186670b4ae6296b7a2629a3f"
+  },
+  {
+    "key": "whgovwire_html_2025-12-05T18:03:50.176Z",
+    "file": "whgovwire_html_2025-12-05T18:03:50.176Z.html",
+    "bytes": 196752,
+    "sha256": "848914d1705d9b1c9095ff2bc45578190c49cb02c73a7178002c43eca6d9231f"
+  },
+  {
+    "key": "whgovwire_html_2025-12-06T18:03:50.923Z",
+    "file": "whgovwire_html_2025-12-06T18:03:50.923Z.html",
+    "bytes": 196676,
+    "sha256": "5775297b80bb558852d95929207208cd889cf15c2132af0635c8bb13aa787327"
+  },
+  {
+    "key": "whgovwire_html_2025-12-07T18:03:51.623Z",
+    "file": "whgovwire_html_2025-12-07T18:03:51.623Z.html",
+    "bytes": 196676,
+    "sha256": "5775297b80bb558852d95929207208cd889cf15c2132af0635c8bb13aa787327"
+  },
+  {
+    "key": "whgovwire_html_2025-12-08T18:03:52.516Z",
+    "file": "whgovwire_html_2025-12-08T18:03:52.516Z.html",
+    "bytes": 196660,
+    "sha256": "426a0543e06c8e8034c0aef75e2b73307c3157e008d4471c836d53807c876148"
+  },
+  {
+    "key": "whgovwire_html_2025-12-09T18:03:53.293Z",
+    "file": "whgovwire_html_2025-12-09T18:03:53.293Z.html",
+    "bytes": 218766,
+    "sha256": "af1b895c072370defb791fe55da99c9bc7fe67d0cf6dd9646df9f3c0a1bcb01c"
+  },
+  {
+    "key": "whgovwire_html_2025-12-10T18:03:54.208Z",
+    "file": "whgovwire_html_2025-12-10T18:03:54.208Z.html",
+    "bytes": 191778,
+    "sha256": "f29d854d3fba49e5b565527d2bb70da61fbf53c59b9d63734a15540caec37f7a"
+  },
+  {
+    "key": "whgovwire_html_2025-12-11T18:03:55.029Z",
+    "file": "whgovwire_html_2025-12-11T18:03:55.029Z.html",
+    "bytes": 195303,
+    "sha256": "196d867e923c69cc0b67d132aca30d6b0ea51aa48b60bc6ec2c1b66086b965f5"
+  },
+  {
+    "key": "whgovwire_html_2025-12-12T18:03:56.025Z",
+    "file": "whgovwire_html_2025-12-12T18:03:56.025Z.html",
+    "bytes": 189200,
+    "sha256": "dc15bafe69ac2bcefca23240ef2b98ac737c285a95de6f05066a428b32d398f7"
+  },
+  {
+    "key": "whgovwire_html_2025-12-13T18:03:56.807Z",
+    "file": "whgovwire_html_2025-12-13T18:03:56.807Z.html",
+    "bytes": 189200,
+    "sha256": "afd1132173b9ad89a3b65452f42e99008efe0b96c9eaabbae20291a7340b79eb"
+  },
+  {
+    "key": "whgovwire_html_2025-12-14T18:03:57.615Z",
+    "file": "whgovwire_html_2025-12-14T18:03:57.615Z.html",
+    "bytes": 189882,
+    "sha256": "1be730438f17a5ada496842384cb5150c55b4e1fea24586c47a19b75133a48f0"
+  },
+  {
+    "key": "whgovwire_html_2025-12-15T18:03:58.561Z",
+    "file": "whgovwire_html_2025-12-15T18:03:58.561Z.html",
+    "bytes": 193551,
+    "sha256": "28024d7b172b027e761318f49d853a9dc6bd9fe60c8f37882e29f3d2be79b091"
+  },
+  {
+    "key": "whgovwire_html_2025-12-16T18:03:59.402Z",
+    "file": "whgovwire_html_2025-12-16T18:03:59.402Z.html",
+    "bytes": 193338,
+    "sha256": "0862e3d4efeae66feda6b7094065b8460f6f3ea5743de5d4053377c6b4a5488c"
+  },
+  {
+    "key": "whgovwire_html_2025-12-17T18:04:00.783Z",
+    "file": "whgovwire_html_2025-12-17T18:04:00.783Z.html",
+    "bytes": 192705,
+    "sha256": "d5aa7c7e097f23c09df4dcc26776e0f9662c340ceaeb7373c076c9aa73149de4"
+  },
+  {
+    "key": "whgovwire_html_2025-12-18T18:04:01.734Z",
+    "file": "whgovwire_html_2025-12-18T18:04:01.734Z.html",
+    "bytes": 192022,
+    "sha256": "d6985c628842deb2fcf4cd998168be99cd4a80b651ad7814c45bf8329a421fd1"
+  },
+  {
+    "key": "whgovwire_html_2025-12-19T18:04:02.845Z",
+    "file": "whgovwire_html_2025-12-19T18:04:02.845Z.html",
+    "bytes": 192886,
+    "sha256": "2f91adf71d74815ff0850cf84dcd2e46e103a53db399d3acfedb413e01a9cf02"
+  },
+  {
+    "key": "whgovwire_html_2025-12-20T18:04:03.744Z",
+    "file": "whgovwire_html_2025-12-20T18:04:03.744Z.html",
+    "bytes": 192886,
+    "sha256": "9685f944f85ed9aca0449d978394841839c378c1bf288ddb8e62ca8c036b617b"
+  },
+  {
+    "key": "whgovwire_html_2025-12-21T18:04:04.865Z",
+    "file": "whgovwire_html_2025-12-21T18:04:04.865Z.html",
+    "bytes": 193661,
+    "sha256": "f76b03fbbd578e1cc68789b7ba49cb64365aabe11851e460ee846329fbfa8c42"
+  },
+  {
+    "key": "whgovwire_html_2025-12-22T18:04:05.919Z",
+    "file": "whgovwire_html_2025-12-22T18:04:05.919Z.html",
+    "bytes": 192114,
+    "sha256": "74b0c9b453062f189797486e8d729a1d882839e9f8184a9462892f4be9e78465"
+  },
+  {
+    "key": "whgovwire_html_2025-12-23T18:04:07.070Z",
+    "file": "whgovwire_html_2025-12-23T18:04:07.070Z.html",
+    "bytes": 192091,
+    "sha256": "3323d5feaeb7bce716808c408022c60ed92ba969f6276679489f3f4f28ebd934"
+  },
+  {
+    "key": "whgovwire_html_2025-12-24T18:04:08.298Z",
+    "file": "whgovwire_html_2025-12-24T18:04:08.298Z.html",
+    "bytes": 192091,
+    "sha256": "3323d5feaeb7bce716808c408022c60ed92ba969f6276679489f3f4f28ebd934"
+  },
+  {
+    "key": "whgovwire_html_2025-12-25T18:04:09.390Z",
+    "file": "whgovwire_html_2025-12-25T18:04:09.390Z.html",
+    "bytes": 192091,
+    "sha256": "3323d5feaeb7bce716808c408022c60ed92ba969f6276679489f3f4f28ebd934"
+  },
+  {
+    "key": "whgovwire_html_2025-12-26T18:04:10.182Z",
+    "file": "whgovwire_html_2025-12-26T18:04:10.182Z.html",
+    "bytes": 192126,
+    "sha256": "d433f2f7b478521bf8b8daf22e679d29f0c6c0af9d9f7823282573fb8523d688"
+  },
+  {
+    "key": "whgovwire_html_2025-12-27T18:04:12.095Z",
+    "file": "whgovwire_html_2025-12-27T18:04:12.095Z.html",
+    "bytes": 192126,
+    "sha256": "d433f2f7b478521bf8b8daf22e679d29f0c6c0af9d9f7823282573fb8523d688"
+  },
+  {
+    "key": "whgovwire_html_2025-12-28T18:04:13.097Z",
+    "file": "whgovwire_html_2025-12-28T18:04:13.097Z.html",
+    "bytes": 192901,
+    "sha256": "da4b7ddd0c42ce2e170259687415db20183400dbd73be629666559194381eedb"
+  },
+  {
+    "key": "whgovwire_html_2025-12-29T18:04:14.343Z",
+    "file": "whgovwire_html_2025-12-29T18:04:14.343Z.html",
+    "bytes": 219658,
+    "sha256": "780f046f2fd948d3f3fb8e7f0357fe739c0b88ab772adc60b0f123ec697739b2"
+  },
+  {
+    "key": "whgovwire_html_2025-12-30T18:04:15.258Z",
+    "file": "whgovwire_html_2025-12-30T18:04:15.258Z.html",
+    "bytes": 192027,
+    "sha256": "2fd18f66c094e0c0f7b6b21f748f4c0dd0d2f0ed96d64e2496ba3ca531ad7414"
+  },
+  {
+    "key": "whgovwire_html_2025-12-31T18:04:16.346Z",
+    "file": "whgovwire_html_2025-12-31T18:04:16.346Z.html",
+    "bytes": 193449,
+    "sha256": "c085ef77c420a5467bfbc044abca074c325e2ed0ef11b17a94ce96ad4a7a545e"
+  },
+  {
+    "key": "whgovwire_html_2026-01-01T18:04:17.402Z",
+    "file": "whgovwire_html_2026-01-01T18:04:17.402Z.html",
+    "bytes": 193449,
+    "sha256": "c085ef77c420a5467bfbc044abca074c325e2ed0ef11b17a94ce96ad4a7a545e"
+  },
+  {
+    "key": "whgovwire_html_2026-01-02T18:04:18.354Z",
+    "file": "whgovwire_html_2026-01-02T18:04:18.354Z.html",
+    "bytes": 193219,
+    "sha256": "ada1e549898edd540ce1bc152a2001076bd74ae6a3679bdb4b8ded400b7bf87f"
+  },
+  {
+    "key": "whgovwire_html_2026-01-03T18:04:19.458Z",
+    "file": "whgovwire_html_2026-01-03T18:04:19.458Z.html",
+    "bytes": 220717,
+    "sha256": "9ace4af95d103579cc984841b9146e57913ba3b99d736bd43962c808d98d13d0"
+  },
+  {
+    "key": "whgovwire_html_2026-01-04T18:04:20.675Z",
+    "file": "whgovwire_html_2026-01-04T18:04:20.675Z.html",
+    "bytes": 194232,
+    "sha256": "a5d3d89355243818b974de3a7196ccd5d6b380e2a42fa4c65e6f648ca7a37233"
+  },
+  {
+    "key": "whgovwire_html_2026-01-05T18:04:21.735Z",
+    "file": "whgovwire_html_2026-01-05T18:04:21.735Z.html",
+    "bytes": 193529,
+    "sha256": "d53c3d2d207c96b0522380d5a0fdceb16de6666eff373a3d9d9faa5c0e221151"
+  },
+  {
+    "key": "whgovwire_html_2026-01-06T18:04:22.670Z",
+    "file": "whgovwire_html_2026-01-06T18:04:22.670Z.html",
+    "bytes": 193713,
+    "sha256": "633594159bc10bc58787bdf31c6b89728452a9388d2a980bbc22b9d8754888c8"
+  },
+  {
+    "key": "whgovwire_html_2026-01-07T18:04:23.672Z",
+    "file": "whgovwire_html_2026-01-07T18:04:23.672Z.html",
+    "bytes": 219909,
+    "sha256": "afc026de696adc40b09e0999da1c18749b38855d15b20978171dbd8df9c71777"
+  },
+  {
+    "key": "whgovwire_html_2026-01-08T18:04:24.771Z",
+    "file": "whgovwire_html_2026-01-08T18:04:24.771Z.html",
+    "bytes": 194338,
+    "sha256": "12ba7ce171a87932e6444929be4453d7d3dddf6b17f48c92f5bda1375dbe541d"
+  },
+  {
+    "key": "whgovwire_html_2026-01-09T18:04:25.854Z",
+    "file": "whgovwire_html_2026-01-09T18:04:25.854Z.html",
+    "bytes": 194667,
+    "sha256": "e806ecff0e9697a4205fa71484a7ee7680eb521fe2f25a750ed9cf17579795a2"
+  },
+  {
+    "key": "whgovwire_html_2026-01-10T18:04:26.672Z",
+    "file": "whgovwire_html_2026-01-10T18:04:26.672Z.html",
+    "bytes": 194960,
+    "sha256": "3cfe547cc2f2194886d7fd6e54b23a99c42a23bcff89271b5705b91ae7be0396"
+  },
+  {
+    "key": "whgovwire_html_2026-01-11T18:04:27.505Z",
+    "file": "whgovwire_html_2026-01-11T18:04:27.505Z.html",
+    "bytes": 195735,
+    "sha256": "30a34d6637c9e83788f1068853bd0356f79e89d7bf2c4bddb888bf21decd4c49"
+  },
+  {
+    "key": "whgovwire_html_2026-01-12T18:04:28.409Z",
+    "file": "whgovwire_html_2026-01-12T18:04:28.409Z.html",
+    "bytes": 195553,
+    "sha256": "a80f6a4bc13148d8133bf241403f7d95063ccbe20d10cf34c8249fc93fb7b443"
+  },
+  {
+    "key": "whgovwire_html_2026-01-13T18:04:29.533Z",
+    "file": "whgovwire_html_2026-01-13T18:04:29.533Z.html",
+    "bytes": 195266,
+    "sha256": "0fb6593a4ce5c06043cab724ab74db87dca642734150fda176358b9605011760"
+  },
+  {
+    "key": "whgovwire_html_2026-01-14T18:04:30.578Z",
+    "file": "whgovwire_html_2026-01-14T18:04:30.578Z.html",
+    "bytes": 204959,
+    "sha256": "d35f757f1de860b07f69747248c628054ce684b1402bc9b5d326992d69661323"
+  },
+  {
+    "key": "whgovwire_html_2026-01-15T18:04:31.331Z",
+    "file": "whgovwire_html_2026-01-15T18:04:31.331Z.html",
+    "bytes": 215869,
+    "sha256": "4e42b1c7204463ea7a54ba8974aae12bbbebfa4c48ec13862e480d05de21c9a2"
+  },
+  {
+    "key": "whgovwire_html_2026-01-16T18:04:32.059Z",
+    "file": "whgovwire_html_2026-01-16T18:04:32.059Z.html",
+    "bytes": 233261,
+    "sha256": "ec4aa76537fddf60a952ab60bcd8dffcd94b6f4416a0c1a339535ad5c3537994"
+  },
+  {
+    "key": "whgovwire_html_2026-01-17T18:04:33.318Z",
+    "file": "whgovwire_html_2026-01-17T18:04:33.318Z.html",
+    "bytes": 216716,
+    "sha256": "a38587743dd5ad85f3c8fbc5169376f1a5fb1a0caebe430aa2bcf9d36b0e7bcc"
+  },
+  {
+    "key": "whgovwire_html_2026-01-18T18:04:34.376Z",
+    "file": "whgovwire_html_2026-01-18T18:04:34.376Z.html",
+    "bytes": 217491,
+    "sha256": "914add27ae9fa3128ec3229adccd1bb08cf39bc5c5945347f491cbecef225a87"
+  },
+  {
+    "key": "whgovwire_html_2026-01-19T18:04:35.537Z",
+    "file": "whgovwire_html_2026-01-19T18:04:35.537Z.html",
+    "bytes": 217491,
+    "sha256": "914add27ae9fa3128ec3229adccd1bb08cf39bc5c5945347f491cbecef225a87"
+  },
+  {
+    "key": "whgovwire_html_2026-01-20T18:04:36.818Z",
+    "file": "whgovwire_html_2026-01-20T18:04:36.818Z.html",
+    "bytes": 217429,
+    "sha256": "5147daddb06a225f85039ba4d339b0ff77a2237a8d6207b2ce43a7b48518ee52"
+  },
+  {
+    "key": "whgovwire_html_2026-01-21T18:04:37.766Z",
+    "file": "whgovwire_html_2026-01-21T18:04:37.766Z.html",
+    "bytes": 216712,
+    "sha256": "636a40211f17b6d41b9d2b890d5e3bba2ef8878ed1c0380f11df24b31343183c"
+  },
+  {
+    "key": "whgovwire_html_2026-01-22T18:04:38.904Z",
+    "file": "whgovwire_html_2026-01-22T18:04:38.904Z.html",
+    "bytes": 248299,
+    "sha256": "1beb4b6f76e52984c780fab32a4e9b3f053f262817db7a6edb81f52c2c1744a8"
+  },
+  {
+    "key": "whgovwire_html_2026-01-23T18:04:40.027Z",
+    "file": "whgovwire_html_2026-01-23T18:04:40.027Z.html",
+    "bytes": 253054,
+    "sha256": "b18599f5302c8bc6a55627c964296fb5b363a6a3a06d8b4872a3cbf9dfd6d67a"
+  },
+  {
+    "key": "whgovwire_html_2026-01-24T18:04:41.227Z",
+    "file": "whgovwire_html_2026-01-24T18:04:41.227Z.html",
+    "bytes": 278907,
+    "sha256": "6922adc7703cf7342b798972afab040d16e7e0afbdf2b15a958ebcd722198d30"
+  },
+  {
+    "key": "whgovwire_html_2026-01-25T18:04:42.235Z",
+    "file": "whgovwire_html_2026-01-25T18:04:42.235Z.html",
+    "bytes": 280265,
+    "sha256": "3cef58ada9fbfd1473855c98c0a7f576bc4674c3c94bd2bbcdeec7cf5c022168"
+  },
+  {
+    "key": "whgovwire_html_2026-01-26T18:04:43.583Z",
+    "file": "whgovwire_html_2026-01-26T18:04:43.583Z.html",
+    "bytes": 308653,
+    "sha256": "bb390d370d7d07af8de732e286e5a492f8fdff31868accfa30c7d56985c3b789"
+  },
+  {
+    "key": "whgovwire_html_2026-01-27T18:04:44.857Z",
+    "file": "whgovwire_html_2026-01-27T18:04:44.857Z.html",
+    "bytes": 281179,
+    "sha256": "dfbc8ec094c83b6341cdb3311c67ca0a94a4bbdc37bf29aaf6868df4b167c0e7"
+  },
+  {
+    "key": "whgovwire_html_2026-01-28T18:04:46.092Z",
+    "file": "whgovwire_html_2026-01-28T18:04:46.092Z.html",
+    "bytes": 281984,
+    "sha256": "231ee689288530fc7de0fe06c048e53d4ec7650746c57539ac44a3ad2af64584"
+  },
+  {
+    "key": "whgovwire_html_2026-01-29T18:04:47.192Z",
+    "file": "whgovwire_html_2026-01-29T18:04:47.192Z.html",
+    "bytes": 280687,
+    "sha256": "55c6cbf3fa238a8458fa71c85fc7f55b9f3dca4633c8f50dcb540415c9228543"
+  },
+  {
+    "key": "whgovwire_html_2026-01-30T18:04:48.464Z",
+    "file": "whgovwire_html_2026-01-30T18:04:48.464Z.html",
+    "bytes": 282040,
+    "sha256": "b66405b7005163541093c4aae160652f1cdcb420b925dcbd02ca8bfed4c2fa08"
+  },
+  {
+    "key": "whgovwire_html_2026-01-31T18:04:49.604Z",
+    "file": "whgovwire_html_2026-01-31T18:04:49.604Z.html",
+    "bytes": 282040,
+    "sha256": "d2002488b034b7b7388ccd601ae59838a2a52823300e5002b8df8906fe35b645"
+  },
+  {
+    "key": "whgovwire_html_2026-02-01T18:04:50.673Z",
+    "file": "whgovwire_html_2026-02-01T18:04:50.673Z.html",
+    "bytes": 282815,
+    "sha256": "edd07c67824d09776dd01431a403581c993547dc53232fe6322901ae39921039"
+  },
+  {
+    "key": "whgovwire_html_2026-02-02T18:04:51.697Z",
+    "file": "whgovwire_html_2026-02-02T18:04:51.697Z.html",
+    "bytes": 280476,
+    "sha256": "38003e84a1e47cfd9082f2c2e0bdf471263cd26bcbc0d117d4f6d7cb6fd2aae3"
+  },
+  {
+    "key": "whgovwire_html_2026-02-03T18:04:52.822Z",
+    "file": "whgovwire_html_2026-02-03T18:04:52.822Z.html",
+    "bytes": 284029,
+    "sha256": "d312e4fc698eae675facc4227b67c270e99c62ed3ac48fb5c166cec87c63d69d"
+  },
+  {
+    "key": "whgovwire_html_2026-02-04T18:04:53.788Z",
+    "file": "whgovwire_html_2026-02-04T18:04:53.788Z.html",
+    "bytes": 283087,
+    "sha256": "48577c26fdc19378eeae106e4e07baff76718e74befa33c3e5e20984c6e44559"
+  },
+  {
+    "key": "whgovwire_html_2026-02-05T18:04:54.921Z",
+    "file": "whgovwire_html_2026-02-05T18:04:54.921Z.html",
+    "bytes": 283770,
+    "sha256": "4953110451b3f12950cb42125553c71e95b0a3b59428f135484a4a3bca19f10e"
+  },
+  {
+    "key": "whgovwire_html_2026-02-06T18:04:56.010Z",
+    "file": "whgovwire_html_2026-02-06T18:04:56.010Z.html",
+    "bytes": 285256,
+    "sha256": "b54f175407c16a03d9504ca63e536505f2760b2783b570e822a2e05e0133a06e"
+  },
+  {
+    "key": "whgovwire_html_2026-02-07T18:04:57.387Z",
+    "file": "whgovwire_html_2026-02-07T18:04:57.387Z.html",
+    "bytes": 285280,
+    "sha256": "707f5d5bf701593b1631dde37d27091c7d5b577f46a50cb3040eb975b79b4d65"
+  },
+  {
+    "key": "whgovwire_html_2026-02-08T18:04:58.714Z",
+    "file": "whgovwire_html_2026-02-08T18:04:58.714Z.html",
+    "bytes": 286056,
+    "sha256": "bcad1231183264ee64bbcfa9c967f1ce832f87403deb92ee0a955af2e1f44961"
+  },
+  {
+    "key": "whgovwire_html_2026-02-09T18:05:00.391Z",
+    "file": "whgovwire_html_2026-02-09T18:05:00.391Z.html",
+    "bytes": 286121,
+    "sha256": "c3492668f0e0397331344f7d4541b3a172c6cd214d115b42c235746805d7b378"
+  },
+  {
+    "key": "whgovwire_html_2026-02-10T18:05:02.542Z",
+    "file": "whgovwire_html_2026-02-10T18:05:02.542Z.html",
+    "bytes": 285807,
+    "sha256": "8adbdf5c1ca35d1cbdac042ba131fc8bf7f2236ab60bea497db051e9966cfd66"
+  },
+  {
+    "key": "whgovwire_html_2026-02-11T18:05:05.230Z",
+    "file": "whgovwire_html_2026-02-11T18:05:05.230Z.html",
+    "bytes": 285661,
+    "sha256": "dc41cb96d9bb2fb7b5e785e854c3c187887e53f7d3138382e07e0ce2c34b74de"
+  },
+  {
+    "key": "whgovwire_html_2026-02-12T18:05:06.882Z",
+    "file": "whgovwire_html_2026-02-12T18:05:06.882Z.html",
+    "bytes": 286856,
+    "sha256": "eccbe5674015e217be999df13eca9af8b2d3dad90baf758d9bc2c8545249e96d"
+  },
+  {
+    "key": "whgovwire_html_2026-02-13T18:05:08.081Z",
+    "file": "whgovwire_html_2026-02-13T18:05:08.081Z.html",
+    "bytes": 288328,
+    "sha256": "194a0530618b67fa29f57d4d8657890ac97b1307d25082dfcb0c9f0bd7dcc8ef"
+  },
+  {
+    "key": "whgovwire_html_2026-02-14T18:05:09.231Z",
+    "file": "whgovwire_html_2026-02-14T18:05:09.231Z.html",
+    "bytes": 315931,
+    "sha256": "e941e0adaadf22715531fdcd828ed7f6d2ed2cba8593e6c55546d67962a61e64"
+  },
+  {
+    "key": "whgovwire_html_2026-02-15T18:05:10.381Z",
+    "file": "whgovwire_html_2026-02-15T18:05:10.381Z.html",
+    "bytes": 289104,
+    "sha256": "9dffa25723fff1393d0c35be615b9788f6ff95e91c01eec11089418c57fa8ff6"
+  },
+  {
+    "key": "whgovwire_html_2026-02-16T18:05:13.000Z",
+    "file": "whgovwire_html_2026-02-16T18:05:13.000Z.html",
+    "bytes": 289104,
+    "sha256": "9dffa25723fff1393d0c35be615b9788f6ff95e91c01eec11089418c57fa8ff6"
+  },
+  {
+    "key": "whgovwire_html_2026-02-17T18:05:15.004Z",
+    "file": "whgovwire_html_2026-02-17T18:05:15.004Z.html",
+    "bytes": 287402,
+    "sha256": "e397605336d365d61731f44aa89e2c0188953c6a7d8c5c4abe30087496f96210"
+  },
+  {
+    "key": "whgovwire_html_2026-02-18T18:05:16.290Z",
+    "file": "whgovwire_html_2026-02-18T18:05:16.290Z.html",
+    "bytes": 288412,
+    "sha256": "7571c89025dd51d03801eaca3b1c13c5cd7dc33cc44e759f99020e6922173cf9"
+  },
+  {
+    "key": "whgovwire_html_2026-02-19T18:05:17.369Z",
+    "file": "whgovwire_html_2026-02-19T18:05:17.369Z.html",
+    "bytes": 288153,
+    "sha256": "0430a6532bbf76de98ee971c64d8ed505774969de3057dfc96499b37b659e8c1"
+  },
+  {
+    "key": "whgovwire_html_2026-02-20T18:05:18.365Z",
+    "file": "whgovwire_html_2026-02-20T18:05:18.365Z.html",
+    "bytes": 286731,
+    "sha256": "d102bd218639a9779331fa42798c25a67b5a31ed02c9031248ca79a2a79f3711"
+  },
+  {
+    "key": "whgovwire_html_2026-02-21T18:05:19.518Z",
+    "file": "whgovwire_html_2026-02-21T18:05:19.518Z.html",
+    "bytes": 286731,
+    "sha256": "d102bd218639a9779331fa42798c25a67b5a31ed02c9031248ca79a2a79f3711"
+  },
+  {
+    "key": "whgovwire_html_2026-02-22T18:05:20.273Z",
+    "file": "whgovwire_html_2026-02-22T18:05:20.273Z.html",
+    "bytes": 287507,
+    "sha256": "17fcfedbfee8abe372383bde615458c4abd5025d5f3077c7f082ef6dcfe88533"
+  },
+  {
+    "key": "whgovwire_html_2026-02-23T18:05:21.980Z",
+    "file": "whgovwire_html_2026-02-23T18:05:21.980Z.html",
+    "bytes": 288587,
+    "sha256": "4e11e0a7bc14b8008cb10a2b37b4149025fd059e3406bae310b35f783c164996"
+  },
+  {
+    "key": "whgovwire_html_2026-02-24T18:05:24.444Z",
+    "file": "whgovwire_html_2026-02-24T18:05:24.444Z.html",
+    "bytes": 290544,
+    "sha256": "267fc197a410827ea8b99600d2e8aad028a85d47173852a1ba89500980abfba2"
+  },
+  {
+    "key": "whgovwire_html_2026-02-25T18:05:25.916Z",
+    "file": "whgovwire_html_2026-02-25T18:05:25.916Z.html",
+    "bytes": 290594,
+    "sha256": "4d4b76c397d246c8a3822a516ddda34ccbcde118bfc7fae389d0b6b0ab7329cf"
+  },
+  {
+    "key": "whgovwire_html_2026-02-26T18:05:27.109Z",
+    "file": "whgovwire_html_2026-02-26T18:05:27.109Z.html",
+    "bytes": 290650,
+    "sha256": "e9bb534f797ffd4837c53e379b188346eaf95106a8095df0f8e5d9e7ed2cac53"
+  },
+  {
+    "key": "whgovwire_html_2026-02-27T18:05:27.908Z",
+    "file": "whgovwire_html_2026-02-27T18:05:27.908Z.html",
+    "bytes": 290323,
+    "sha256": "689b7ff8d39c0a01b028b8e581ceec3191f81f8ed103db9b481d331f94443059"
+  },
+  {
+    "key": "whgovwire_html_2026-02-28T18:05:28.831Z",
+    "file": "whgovwire_html_2026-02-28T18:05:28.831Z.html",
+    "bytes": 290407,
+    "sha256": "86ba8e40264da4a3efefdd3ceff1c1e702e50f64953d43b14cb2274e151b8f33"
+  },
+  {
+    "key": "whgovwire_html_2026-03-01T18:05:29.617Z",
+    "file": "whgovwire_html_2026-03-01T18:05:29.617Z.html",
+    "bytes": 291183,
+    "sha256": "bc4a5ea1fe809dabe4b3e15c259c6ed9afec12637e3f30b2df2228804552cb7b"
+  },
+  {
+    "key": "whgovwire_html_2026-03-02T18:05:30.490Z",
+    "file": "whgovwire_html_2026-03-02T18:05:30.490Z.html",
+    "bytes": 289081,
+    "sha256": "6754749faa2ad4e5c5a14d03d7305bd10ef4cd46f3b7bec7a262269d5348865d"
+  },
+  {
+    "key": "whgovwire_html_2026-03-03T18:05:31.272Z",
+    "file": "whgovwire_html_2026-03-03T18:05:31.272Z.html",
+    "bytes": 290061,
+    "sha256": "d36f0c083d896e01aac016401d2ac10aca50407062869b19c54c52296c897c66"
+  },
+  {
+    "key": "whgovwire_html_2026-03-04T18:05:32.738Z",
+    "file": "whgovwire_html_2026-03-04T18:05:32.738Z.html",
+    "bytes": 288720,
+    "sha256": "145650450737037753ae3fec00ce477240cd19e513a231fde55a47a235fb6cda"
+  },
+  {
+    "key": "whgovwire_html_2026-03-05T18:05:33.544Z",
+    "file": "whgovwire_html_2026-03-05T18:05:33.544Z.html",
+    "bytes": 289189,
+    "sha256": "10c84ec0723b4ebb139cc0357fd2aa1b6d820e7e697bbaa2e2a801955e0a02f0"
+  },
+  {
+    "key": "whgovwire_html_2026-03-06T18:05:34.348Z",
+    "file": "whgovwire_html_2026-03-06T18:05:34.348Z.html",
+    "bytes": 289193,
+    "sha256": "be1885ff7c9e0fa4aae2266dbbb309e79c31b73b305c8c5778be4ce7b4a3417f"
+  },
+  {
+    "key": "whgovwire_html_2026-03-07T18:05:36.182Z",
+    "file": "whgovwire_html_2026-03-07T18:05:36.182Z.html",
+    "bytes": 289195,
+    "sha256": "28802ad0fd3927c55f18e57a13e6c1059395ad47bc93d8972beaecb4a352fbdb"
+  },
+  {
+    "key": "whgovwire_html_2026-03-08T18:05:38.066Z",
+    "file": "whgovwire_html_2026-03-08T18:05:38.066Z.html",
+    "bytes": 289971,
+    "sha256": "11469adc52f3e6b2c3aa0586b949058ef41a3299d720a93885145afc3b8097d0"
+  },
+  {
+    "key": "whgovwire_html_2026-03-09T18:05:41.106Z",
+    "file": "whgovwire_html_2026-03-09T18:05:41.106Z.html",
+    "bytes": 289971,
+    "sha256": "11469adc52f3e6b2c3aa0586b949058ef41a3299d720a93885145afc3b8097d0"
+  },
+  {
+    "key": "whgovwire_html_2026-03-10T18:05:41.991Z",
+    "file": "whgovwire_html_2026-03-10T18:05:41.991Z.html",
+    "bytes": 291585,
+    "sha256": "e92dbb254be711666fcad9f9f0f67337a1d332c4b05c56cc56e5fd4d9b4d72b8"
+  },
+  {
+    "key": "whgovwire_html_2026-03-11T18:05:44.701Z",
+    "file": "whgovwire_html_2026-03-11T18:05:44.701Z.html",
+    "bytes": 290038,
+    "sha256": "e92c290edd0c9a5b1cae7f872f832dd55c9e81c594b1cacd581cde3009dd5f4a"
+  },
+  {
+    "key": "whgovwire_html_2026-03-12T18:05:45.418Z",
+    "file": "whgovwire_html_2026-03-12T18:05:45.418Z.html",
+    "bytes": 288988,
+    "sha256": "3681400dbbb8ce8b48b1548a316dd92e5eb0af4871341ab7045628586a1fdabe"
+  },
+  {
+    "key": "whgovwire_html_2026-03-13T18:05:46.230Z",
+    "file": "whgovwire_html_2026-03-13T18:05:46.230Z.html",
+    "bytes": 288988,
+    "sha256": "3681400dbbb8ce8b48b1548a316dd92e5eb0af4871341ab7045628586a1fdabe"
+  },
+  {
+    "key": "whgovwire_html_2026-03-14T18:05:47.803Z",
+    "file": "whgovwire_html_2026-03-14T18:05:47.803Z.html",
+    "bytes": 288988,
+    "sha256": "6a244697e82ae2e0dc43e4e61c8538c396e186f9c70fed5ca246d558860e84f6"
+  },
+  {
+    "key": "whgovwire_html_2026-03-15T18:05:48.671Z",
+    "file": "whgovwire_html_2026-03-15T18:05:48.671Z.html",
+    "bytes": 317255,
+    "sha256": "5ffb68b8ca60bb19fbc8f3faea298e821cbc9d6a4b7844c5cf1e44ce5ba75721"
+  },
+  {
+    "key": "whgovwire_html_2026-03-16T18:05:50.215Z",
+    "file": "whgovwire_html_2026-03-16T18:05:50.215Z.html",
+    "bytes": 289231,
+    "sha256": "1cd571cdb8ac2b6c7802064e893c82a42b095f29f82d3b5246316130d96def6b"
+  },
+  {
+    "key": "whgovwire_html_2026-03-17T18:05:51.017Z",
+    "file": "whgovwire_html_2026-03-17T18:05:51.017Z.html",
+    "bytes": 289101,
+    "sha256": "a0393bd2b3cdee2538deb99bc956ccfb98a90c4b479f9e046effebc1c5ed60cf"
+  },
+  {
+    "key": "whgovwire_html_2026-03-18T18:05:51.958Z",
+    "file": "whgovwire_html_2026-03-18T18:05:51.958Z.html",
+    "bytes": 288819,
+    "sha256": "2bbb035d1811cf1514101f9a417da3f0565d90c52fffedc578e4cba700b98ec4"
+  },
+  {
+    "key": "whgovwire_html_2026-03-19T18:05:52.805Z",
+    "file": "whgovwire_html_2026-03-19T18:05:52.805Z.html",
+    "bytes": 290904,
+    "sha256": "f6aa8b7a1aa9e1f1d1708dd23eaf8f238e24d2923a8007f21c5ab81869662d9f"
+  },
+  {
+    "key": "whgovwire_html_2026-03-20T18:05:53.879Z",
+    "file": "whgovwire_html_2026-03-20T18:05:53.879Z.html",
+    "bytes": 289488,
+    "sha256": "997b921ccb69dfa970a1d7f7b99dbaeecc0ede5e062c2599a9a34c491f834dfe"
+  },
+  {
+    "key": "whgovwire_html_2026-03-21T18:05:54.767Z",
+    "file": "whgovwire_html_2026-03-21T18:05:54.767Z.html",
+    "bytes": 289374,
+    "sha256": "692df71adebce13a799c3c09f399cb43083e5d49958c9d6bcbec8d5106eb9246"
+  },
+  {
+    "key": "whgovwire_html_2026-03-22T18:05:56.166Z",
+    "file": "whgovwire_html_2026-03-22T18:05:56.166Z.html",
+    "bytes": 317641,
+    "sha256": "b85750672bdd443c7ac179c955e42588c4a5ecf390203084cbb30d9639d291df"
+  },
+  {
+    "key": "whgovwire_html_2026-03-23T18:05:57.450Z",
+    "file": "whgovwire_html_2026-03-23T18:05:57.450Z.html",
+    "bytes": 291311,
+    "sha256": "d1e238cff63b307ebe11be77d85befc40bba61caf9082f2c280d3928dae8dbab"
+  },
+  {
+    "key": "whgovwire_html_2026-03-24T18:05:59.116Z",
+    "file": "whgovwire_html_2026-03-24T18:05:59.116Z.html",
+    "bytes": 289274,
+    "sha256": "5797899949ac4d1f1a27f177bfc8c433f5f63ad64d9e25612b0790987b94463e"
+  },
+  {
+    "key": "whgovwire_html_2026-03-25T18:05:59.590Z",
+    "file": "whgovwire_html_2026-03-25T18:05:59.590Z.html",
+    "bytes": 288654,
+    "sha256": "a435da336533398c26deeab0ec3cded9e4a5f64993f948117b65d2035182606f"
+  },
+  {
+    "key": "whgovwire_html_2026-03-26T18:05:59.862Z",
+    "file": "whgovwire_html_2026-03-26T18:05:59.862Z.html",
+    "bytes": 288618,
+    "sha256": "81685b348fcd3b5b274004bd16d5cb02862ecf91128323d17e26f68d786716cc"
+  },
+  {
+    "key": "whgovwire_html_2026-03-27T18:06:02.776Z",
+    "file": "whgovwire_html_2026-03-27T18:06:02.776Z.html",
+    "bytes": 288442,
+    "sha256": "bc0669372bd6087239c67809a3f24415d7cc95c9231b3975ccdb0c35cb4497e2"
+  },
+  {
+    "key": "whgovwire_html_2026-03-28T18:06:03.112Z",
+    "file": "whgovwire_html_2026-03-28T18:06:03.112Z.html",
+    "bytes": 289817,
+    "sha256": "18390059be7c14f2d66169c0e4fb3e2493495b89d138e1a7d926de1a62c4da39"
+  },
+  {
+    "key": "whgovwire_html_2026-03-29T18:06:03.223Z",
+    "file": "whgovwire_html_2026-03-29T18:06:03.223Z.html",
+    "bytes": 290589,
+    "sha256": "085e5f6b680e6fde294be542b789cb805b911c8a44dbea4583957068a510850b"
+  },
+  {
+    "key": "whgovwire_html_2026-03-30T18:06:03.456Z",
+    "file": "whgovwire_html_2026-03-30T18:06:03.456Z.html",
+    "bytes": 289294,
+    "sha256": "b70b5b859fc59933ec650b38e94e783ffc49ad918bad84d8d9379f0e753f8e2a"
+  },
+  {
+    "key": "whgovwire_html_2026-03-31T18:06:03.519Z",
+    "file": "whgovwire_html_2026-03-31T18:06:03.519Z.html",
+    "bytes": 288949,
+    "sha256": "25e07e40a028cb5989406f3537b150b212ea11b2adae2132f265f6a82952d316"
+  },
+  {
+    "key": "whgovwire_html_2026-04-01T18:06:03.568Z",
+    "file": "whgovwire_html_2026-04-01T18:06:03.568Z.html",
+    "bytes": 290409,
+    "sha256": "e9a41f0854d6cc09b7bbd6c65e78a14201eb700472232b522be16ba2d753a1e6"
+  },
+  {
+    "key": "whgovwire_html_2026-04-02T18:06:04.983Z",
+    "file": "whgovwire_html_2026-04-02T18:06:04.983Z.html",
+    "bytes": 288903,
+    "sha256": "d6e6abfc8eda5ccf51128d09bc757d6dc8204f6d69a2c09e6f04b07fba3d3410"
+  },
+  {
+    "key": "whgovwire_html_2026-04-03T18:06:04.618Z",
+    "file": "whgovwire_html_2026-04-03T18:06:04.618Z.html",
+    "bytes": 288060,
+    "sha256": "64ac6bb32a45f2dc1f671db40a73d65379d6a4315e8a2a004346638c1be7e209"
+  },
+  {
+    "key": "whgovwire_html_2026-04-04T18:06:04.950Z",
+    "file": "whgovwire_html_2026-04-04T18:06:04.950Z.html",
+    "bytes": 316451,
+    "sha256": "9068669f605a915eca7750e9b640049602bc771e19149bc94c2b43dfc69dd303"
+  },
+  {
+    "key": "whgovwire_html_2026-04-05T18:06:05.538Z",
+    "file": "whgovwire_html_2026-04-05T18:06:05.538Z.html",
+    "bytes": 290105,
+    "sha256": "643b5810bea0e47726a2c14be4bb924db7de99e74f233d63ccaa6664ea61ed6d"
+  },
+  {
+    "key": "whgovwire_html_2026-04-06T18:06:06.360Z",
+    "file": "whgovwire_html_2026-04-06T18:06:06.360Z.html",
+    "bytes": 290070,
+    "sha256": "a8aabf2631f04bb311712276303154af209ed712dac325db4290e61eb7fd1805"
+  },
+  {
+    "key": "whgovwire_html_2026-04-07T18:06:06.448Z",
+    "file": "whgovwire_html_2026-04-07T18:06:06.448Z.html",
+    "bytes": 289964,
+    "sha256": "23d58de63c1fecf13b88e1f958bce61dbf78be42c1a2089c7c89216d7cfb006e"
+  },
+  {
+    "key": "whgovwire_html_2026-04-08T18:06:07.199Z",
+    "file": "whgovwire_html_2026-04-08T18:06:07.199Z.html",
+    "bytes": 320227,
+    "sha256": "5aea9495f128ff21aac6b0f230368f6a97f1280a01caccae1d350613fe073145"
+  },
+  {
+    "key": "whgovwire_html_2026-04-09T18:06:08.113Z",
+    "file": "whgovwire_html_2026-04-09T18:06:08.113Z.html",
+    "bytes": 293770,
+    "sha256": "6aaa3d6ef1b38bb76c88badc29e15291fd1639fa7f26a5b1d302c224de1b9484"
+  },
+  {
+    "key": "whgovwire_html_2026-04-10T18:06:08.508Z",
+    "file": "whgovwire_html_2026-04-10T18:06:08.508Z.html",
+    "bytes": 294090,
+    "sha256": "c1fa5495fa34c0bb0f7d1b592f2e7072f46eb05df7c34eeeab0e65ea21a4e23b"
+  },
+  {
+    "key": "whgovwire_html_2026-04-11T18:06:38.350Z",
+    "file": "whgovwire_html_2026-04-11T18:06:38.350Z.html",
+    "bytes": 290759,
+    "sha256": "8a672e558ac1e8338106bee38ed6ab2d5d908c200a0fd183aba5dfca1e1ac8c0"
+  },
+  {
+    "key": "whgovwire_html_2026-04-12T18:06:41.163Z",
+    "file": "whgovwire_html_2026-04-12T18:06:41.163Z.html",
+    "bytes": 291535,
+    "sha256": "25ef3e2ea1b06f3dd2c6b2f8300978325a8ced5f89a4b49a7c233265ce302547"
+  },
+  {
+    "key": "whgovwire_html_2026-04-13T18:06:41.897Z",
+    "file": "whgovwire_html_2026-04-13T18:06:41.897Z.html",
+    "bytes": 291434,
+    "sha256": "b6a7009a7468d3143f97bc6da2df9ed9371f4fdce67faf0583a67d20fb408a67"
+  },
+  {
+    "key": "whgovwire_html_2026-04-14T18:06:43.928Z",
+    "file": "whgovwire_html_2026-04-14T18:06:43.928Z.html",
+    "bytes": 291048,
+    "sha256": "b9a03c8570b9f7a0ef10dcc748f71fbd23f65261415d5632bec7a379ed53ff0c"
+  },
+  {
+    "key": "whgovwire_html_2026-04-15T18:06:45.065Z",
+    "file": "whgovwire_html_2026-04-15T18:06:45.065Z.html",
+    "bytes": 291422,
+    "sha256": "5495077d00b20ca363907c74813c7869bb12b7386101f3c90b908994299d88f2"
+  },
+  {
+    "key": "whgovwire_html_2026-04-16T18:06:45.705Z",
+    "file": "whgovwire_html_2026-04-16T18:06:45.705Z.html",
+    "bytes": 290694,
+    "sha256": "97d3243ae82e2672efacfb6a604cb84ff77c781e2b75f014c5bda9e5be4d59f5"
+  },
+  {
+    "key": "whgovwire_html_2026-04-17T18:06:51.190Z",
+    "file": "whgovwire_html_2026-04-17T18:06:51.190Z.html",
+    "bytes": 290685,
+    "sha256": "a05f50c791be90173f34b9fc1930e67b50533cdd475055f565385af0d379bc54"
+  },
+  {
+    "key": "whgovwire_html_2026-04-18T18:06:51.727Z",
+    "file": "whgovwire_html_2026-04-18T18:06:51.727Z.html",
+    "bytes": 290685,
+    "sha256": "a05f50c791be90173f34b9fc1930e67b50533cdd475055f565385af0d379bc54"
+  },
+  {
+    "key": "whgovwire_html_2026-04-19T18:06:52.295Z",
+    "file": "whgovwire_html_2026-04-19T18:06:52.295Z.html",
+    "bytes": 318365,
+    "sha256": "26fad91dd0032534557d727894494e6a868b3f64d036d732d7bdfb93d5aa2ae3"
+  },
+  {
+    "key": "whgovwire_html_2026-04-20T18:06:52.695Z",
+    "file": "whgovwire_html_2026-04-20T18:06:52.695Z.html",
+    "bytes": 289643,
+    "sha256": "6c7237f81754ab3f4ee8e071d45c281069bc23094e0042706404048c459a9d91"
+  },
+  {
+    "key": "whgovwire_html_2026-04-21T18:06:53.196Z",
+    "file": "whgovwire_html_2026-04-21T18:06:53.196Z.html",
+    "bytes": 291618,
+    "sha256": "35bdef31b54817043ae4104794b3cfbfbe3f96543088ddd48dd9950847d9a6cb"
+  },
+  {
+    "key": "whgovwire_html_2026-04-22T18:06:54.361Z",
+    "file": "whgovwire_html_2026-04-22T18:06:54.361Z.html",
+    "bytes": 292752,
+    "sha256": "884ef36e9f886a4245b6edc558cb5beb1061910e711a6f183ad02e6cfd118a19"
+  },
+  {
+    "key": "whgovwire_html_2026-04-23T18:06:57.349Z",
+    "file": "whgovwire_html_2026-04-23T18:06:57.349Z.html",
+    "bytes": 291160,
+    "sha256": "8df57fb351f98f89b1755bf9f98470e016dfe46db1329549386baad34626cd2f"
+  },
+  {
+    "key": "whgovwire_html_2026-04-24T18:06:59.418Z",
+    "file": "whgovwire_html_2026-04-24T18:06:59.418Z.html",
+    "bytes": 291904,
+    "sha256": "acccab42048b18a6fc4fb97cc8b2a0f139bb4fd0a3b7e037191bd087fb20e0e5"
+  },
+  {
+    "key": "whgovwire_html_2026-04-25T18:07:01.982Z",
+    "file": "whgovwire_html_2026-04-25T18:07:01.982Z.html",
+    "bytes": 291908,
+    "sha256": "d82155a2287eebee632f4ff8beac4a531c8b3e02b094c2f2ff567dc93b09dae9"
+  },
+  {
+    "key": "whgovwire_html_2026-04-26T18:07:06.396Z",
+    "file": "whgovwire_html_2026-04-26T18:07:06.396Z.html",
+    "bytes": 292598,
+    "sha256": "49ad6286d34b7ea31036c4ea61f0d1c89454fd4e9ef0f5f18c44e404a6f81021"
+  },
+  {
+    "key": "whgovwire_html_2026-04-27T18:07:18.196Z",
+    "file": "whgovwire_html_2026-04-27T18:07:18.196Z.html",
+    "bytes": 319226,
+    "sha256": "bbb233573df87e29b1c7618da817902bdd1f8e595cbd3d9453cfb942f6fff91e"
+  },
+  {
+    "key": "whgovwire_html_2026-04-28T18:07:18.492Z",
+    "file": "whgovwire_html_2026-04-28T18:07:18.492Z.html",
+    "bytes": 318605,
+    "sha256": "a24b07b3925fbc538ce9072ae61cb53a4bc153732860ec6ac07b3df877df5c70"
+  },
+  {
+    "key": "whgovwire_html_2026-04-29T18:07:18.973Z",
+    "file": "whgovwire_html_2026-04-29T18:07:18.973Z.html",
+    "bytes": 318762,
+    "sha256": "904f22b474e1fa38ecd06e7af70fdbe3cc1169e04544fc9751c2a63f784c9000"
+  },
+  {
+    "key": "whgovwire_html_2026-04-30T18:07:19.811Z",
+    "file": "whgovwire_html_2026-04-30T18:07:19.811Z.html",
+    "bytes": 291858,
+    "sha256": "fe3ad3f0344d40cf8b327942f25a0029a1611741f073645a345a7416854e6a40"
+  },
+  {
+    "key": "whgovwire_html_2026-05-01T18:07:21.772Z",
+    "file": "whgovwire_html_2026-05-01T18:07:21.772Z.html",
+    "bytes": 291858,
+    "sha256": "fe3ad3f0344d40cf8b327942f25a0029a1611741f073645a345a7416854e6a40"
+  },
+  {
+    "key": "whgovwire_html_2026-05-02T18:07:22.767Z",
+    "file": "whgovwire_html_2026-05-02T18:07:22.767Z.html",
+    "bytes": 291933,
+    "sha256": "a9d7badb3308f8c55a83226bfdcc2e970d341888520ed943abc2cea90c3cc1f3"
+  },
+  {
+    "key": "whgovwire_html_2026-05-03T18:07:24.461Z",
+    "file": "whgovwire_html_2026-05-03T18:07:24.461Z.html",
+    "bytes": 319613,
+    "sha256": "687e29be3349138313821c6323213741ea1d7b751a7f8893df37edfcad5bf1ab"
+  },
+  {
+    "key": "whgovwire_html_2026-05-04T18:07:24.907Z",
+    "file": "whgovwire_html_2026-05-04T18:07:24.907Z.html",
+    "bytes": 292441,
+    "sha256": "7f8349f1c37a4150e9c22ead59f9e1f4998989db0e7e7e504a0973237a554a4b"
+  },
+  {
+    "key": "whgovwire_html_2026-05-05T18:07:25.354Z",
+    "file": "whgovwire_html_2026-05-05T18:07:25.354Z.html",
+    "bytes": 292197,
+    "sha256": "71285a2ff45022ffb1234e24de5099930eb301ff63ccc4323ac8c29ca427f647"
+  },
+  {
+    "key": "whgovwire_html_2026-05-06T18:07:26.562Z",
+    "file": "whgovwire_html_2026-05-06T18:07:26.562Z.html",
+    "bytes": 291889,
+    "sha256": "5baa67fdc79b8f16a909407512a4243af95c0345ee893d6d3b597bc7b0be6ec7"
+  },
+  {
+    "key": "whgovwire_html_2026-05-07T18:07:27.292Z",
+    "file": "whgovwire_html_2026-05-07T18:07:27.292Z.html",
+    "bytes": 291706,
+    "sha256": "9758053681bbeb9472d978e6b92c97e2468bdea24c0e3310fd1b4c6ec9af1ac2"
+  },
+  {
+    "key": "whgovwire_html_2026-05-08T18:07:27.641Z",
+    "file": "whgovwire_html_2026-05-08T18:07:27.641Z.html",
+    "bytes": 291706,
+    "sha256": "9758053681bbeb9472d978e6b92c97e2468bdea24c0e3310fd1b4c6ec9af1ac2"
+  },
+  {
+    "key": "whgovwire_html_2026-05-09T18:07:27.693Z",
+    "file": "whgovwire_html_2026-05-09T18:07:27.693Z.html",
+    "bytes": 318606,
+    "sha256": "46b98be8920fc11507d38d805cca75fc931a476dae9d81807d52ceb74d6660b3"
+  },
+  {
+    "key": "whgovwire_html_2026-05-10T18:07:27.812Z",
+    "file": "whgovwire_html_2026-05-10T18:07:27.812Z.html",
+    "bytes": 319382,
+    "sha256": "6bd04abe2a81b453d8662de9859ca37abda692bccd8581b1a767520755ab492a"
+  },
+  {
+    "key": "whgovwire_html_2026-05-11T18:07:34.798Z",
+    "file": "whgovwire_html_2026-05-11T18:07:34.798Z.html",
+    "bytes": 291993,
+    "sha256": "3b3adbf5538c26dc9e32be0070b78b750aef4f37c71ea8d9c5636e07ecde59ea"
+  },
+  {
+    "key": "whgovwire_html_2026-05-12T18:07:36.250Z",
+    "file": "whgovwire_html_2026-05-12T18:07:36.250Z.html",
+    "bytes": 291993,
+    "sha256": "43fb3d08afab9da5ba34653c2865c88b155960a2582082be714c3b79141a2ab5"
+  },
+  {
+    "key": "whgovwire_html_2026-05-13T18:07:37.082Z",
+    "file": "whgovwire_html_2026-05-13T18:07:37.082Z.html",
+    "bytes": 291993,
+    "sha256": "6d34db2f00f62228404d33436193f651e49371348a86bc71519bda8b0e8dbe9f"
+  },
+  {
+    "key": "whgovwire_html_2026-05-14T18:07:37.626Z",
+    "file": "whgovwire_html_2026-05-14T18:07:37.626Z.html",
+    "bytes": 293360,
+    "sha256": "ce869e061844691a2aa665babd8b63e92c9e00279ba02a81024e91636ce299f0"
+  },
+  {
+    "key": "whgovwire_html_2026-05-15T18:07:38.841Z",
+    "file": "whgovwire_html_2026-05-15T18:07:38.841Z.html",
+    "bytes": 319760,
+    "sha256": "d2b18660fa6163bcbd77cf2c27cb13930a0d1e4f2e9fa4687f63f4763013cea5"
+  },
+  {
+    "key": "whgovwire_html_2026-05-16T18:07:39.952Z",
+    "file": "whgovwire_html_2026-05-16T18:07:39.952Z.html",
+    "bytes": 292856,
+    "sha256": "273cb0ab3d1ba0278833cc930b02fd32a4e7063918f0878729aab56007b4c2ed"
+  },
+  {
+    "key": "whgovwire_html_2026-05-17T18:07:42.380Z",
+    "file": "whgovwire_html_2026-05-17T18:07:42.380Z.html",
+    "bytes": 293632,
+    "sha256": "5e3cf054a2687c6884d37cbe5dd9d35745873193ffecf6c982d9f52b9d28f86e"
+  },
+  {
+    "key": "whgovwire_html_2026-05-18T18:07:43.222Z",
+    "file": "whgovwire_html_2026-05-18T18:07:43.222Z.html",
+    "bytes": 293816,
+    "sha256": "70e791b28bb2613b0718b06954a8b1dcbf719f3d60882286f4af80646b049b6a"
+  },
+  {
+    "key": "whgovwire_html_2026-05-19T18:07:43.694Z",
+    "file": "whgovwire_html_2026-05-19T18:07:43.694Z.html",
+    "bytes": 319609,
+    "sha256": "34b2625009553f76e33b707e323c4d69890e4eb9affe54386961d2b49bf6ad57"
+  },
+  {
+    "key": "whgovwire_html_2026-05-20T18:07:46.152Z",
+    "file": "whgovwire_html_2026-05-20T18:07:46.152Z.html",
+    "bytes": 292791,
+    "sha256": "f3f7425e9141e188a116523331eb9c94ea8eda696405bd730adbcfe139f3676a"
+  },
+  {
+    "key": "whgovwire_html_2026-05-21T18:07:46.480Z",
+    "file": "whgovwire_html_2026-05-21T18:07:46.480Z.html",
+    "bytes": 292425,
+    "sha256": "87f1282fe892a8058b57679bc0ec718c706016d0b9ad6783c6e3be7112079740"
+  },
+  {
+    "key": "whgovwire_html_2026-05-22T18:07:46.738Z",
+    "file": "whgovwire_html_2026-05-22T18:07:46.738Z.html",
+    "bytes": 292420,
+    "sha256": "3626de52048186cefa392afb7b8f4325448b45216db7f0d1611996fb3b0cb69e"
+  },
+  {
+    "key": "whgovwire_html_2026-05-23T18:07:49.198Z",
+    "file": "whgovwire_html_2026-05-23T18:07:49.198Z.html",
+    "bytes": 292420,
+    "sha256": "3626de52048186cefa392afb7b8f4325448b45216db7f0d1611996fb3b0cb69e"
+  },
+  {
+    "key": "whgovwire_html_2026-05-24T18:07:52.247Z",
+    "file": "whgovwire_html_2026-05-24T18:07:52.247Z.html",
+    "bytes": 293196,
+    "sha256": "01c7ee0fc381aedbb81ba0797b61e751c8a2aaeec38a1ae088a1f47df5479b10"
+  },
+  {
+    "key": "whgovwire_html_2026-05-25T18:07:53.597Z",
+    "file": "whgovwire_html_2026-05-25T18:07:53.597Z.html",
+    "bytes": 293196,
+    "sha256": "01c7ee0fc381aedbb81ba0797b61e751c8a2aaeec38a1ae088a1f47df5479b10"
+  },
+  {
+    "key": "whgovwire_html_2026-05-26T18:08:02.129Z",
+    "file": "whgovwire_html_2026-05-26T18:08:02.129Z.html",
+    "bytes": 293196,
+    "sha256": "01c7ee0fc381aedbb81ba0797b61e751c8a2aaeec38a1ae088a1f47df5479b10"
+  },
+  {
+    "key": "whgovwire_html_2026-05-27T18:08:02.376Z",
+    "file": "whgovwire_html_2026-05-27T18:08:02.376Z.html",
+    "bytes": 291798,
+    "sha256": "3b69f242312bf897866a8ca26b9a20b12df50071d482f78800216d874f2001bb"
+  },
+  {
+    "key": "whgovwire_html_2026-05-28T18:08:02.824Z",
+    "file": "whgovwire_html_2026-05-28T18:08:02.824Z.html",
+    "bytes": 293013,
+    "sha256": "e6d0f897ab90a17661f14dfd9162c423c727315a461c294f96c5d8a1715a275f"
+  },
+  {
+    "key": "whgovwire_html_2026-05-29T18:08:05.367Z",
+    "file": "whgovwire_html_2026-05-29T18:08:05.367Z.html",
+    "bytes": 318639,
+    "sha256": "4075be10d6007f62053b6d0e4538882c946a910c704a6dd205d43c4f5c8d3b43"
+  },
+  {
+    "key": "whgovwire_html_2026-05-30T18:08:06.983Z",
+    "file": "whgovwire_html_2026-05-30T18:08:06.983Z.html",
+    "bytes": 291735,
+    "sha256": "5faadd7416dbb1befbbc1908b539ad18222808314b7e67440304adbf58732d80"
+  },
+  {
+    "key": "whgovwire_html_2026-05-31T18:08:15.203Z",
+    "file": "whgovwire_html_2026-05-31T18:08:15.203Z.html",
+    "bytes": 292511,
+    "sha256": "352415ca2c8114b21e72b3293b3a20ace62b57f69fb2956cd2d6398811259f53"
+  },
+  {
+    "key": "whgovwire_html_2026-06-01T18:08:15.692Z",
+    "file": "whgovwire_html_2026-06-01T18:08:15.692Z.html",
+    "bytes": 292343,
+    "sha256": "ec5bbb40c5fd6496d2adee23cabee9dbfb20d591bd7f0750baf0361b4ff8c4e1"
+  },
+  {
+    "key": "whgovwire_html_2026-06-02T18:08:16.252Z",
+    "file": "whgovwire_html_2026-06-02T18:08:16.252Z.html",
+    "bytes": 292979,
+    "sha256": "545e91125cb9d9ca5313d5f9ace29caa1ae5fa7416d88f1b308f7df120afee5a"
+  },
+  {
+    "key": "whgovwire_html_2026-06-03T18:08:16.598Z",
+    "file": "whgovwire_html_2026-06-03T18:08:16.598Z.html",
+    "bytes": 293104,
+    "sha256": "cd121292fb2194b4ee5cb9f108d15328fb39af9a97db29bb63e291816923ddf8"
+  },
+  {
+    "key": "whgovwire_html_2026-06-04T18:08:23.862Z",
+    "file": "whgovwire_html_2026-06-04T18:08:23.862Z.html",
+    "bytes": 292657,
+    "sha256": "3779e9a0429b646ca80c2eb7c99106e443efcdce3693f8739d8eb285eb0107c6"
+  },
+  {
+    "key": "whgovwire_html_2026-06-05T18:08:24.129Z",
+    "file": "whgovwire_html_2026-06-05T18:08:24.129Z.html",
+    "bytes": 319690,
+    "sha256": "e1ea5a3d7002f31f09593bfcc3655ef87edac0484c30e15ca79f574a70ee2f6a"
+  },
+  {
+    "key": "whgovwire_html_2026-06-06T18:08:24.987Z",
+    "file": "whgovwire_html_2026-06-06T18:08:24.987Z.html",
+    "bytes": 280683,
+    "sha256": "38405c8c514a3c9dd829fc1d266a69b9498c3e52e7bc8ca257711cf1479ab8b6"
+  },
+  {
+    "key": "whgovwire_html_2026-06-07T18:08:27.592Z",
+    "file": "whgovwire_html_2026-06-07T18:08:27.592Z.html",
+    "bytes": 281459,
+    "sha256": "564434aa9435012d33087c371540aaf88ded99cbf338e97c3ca4fd093baf3217"
+  },
+  {
+    "key": "whgovwire_html_2026-06-08T18:08:27.693Z",
+    "file": "whgovwire_html_2026-06-08T18:08:27.693Z.html",
+    "bytes": 281587,
+    "sha256": "7bf4ab2d2ea55a4e4a96d4f4fbb84433e7ec4419186858ebb89be6b966f2fefe"
+  },
+  {
+    "key": "whgovwire_html_2026-06-09T18:08:27.749Z",
+    "file": "whgovwire_html_2026-06-09T18:08:27.749Z.html",
+    "bytes": 282722,
+    "sha256": "843423a35d773582fdee0af1efe697e0e61bb2805e3aa716015e1fee65576987"
+  },
+  {
+    "key": "whgovwire_html_2026-06-10T18:08:28.379Z",
+    "file": "whgovwire_html_2026-06-10T18:08:28.379Z.html",
+    "bytes": 281779,
+    "sha256": "2fca68e5bb0f51c80a60f300a7cb1c87632afaaa055a818627b4f2d335aebdf5"
+  },
+  {
+    "key": "whgovwire_html_2026-06-11T18:08:30.508Z",
+    "file": "whgovwire_html_2026-06-11T18:08:30.508Z.html",
+    "bytes": 282060,
+    "sha256": "5694ec366a513d470f68e0667b1a326b2c16dcb9bd77b7dfc5899fa6bf5a5735"
+  },
+  {
+    "key": "whgovwire_html_2026-06-12T18:08:31.404Z",
+    "file": "whgovwire_html_2026-06-12T18:08:31.404Z.html",
+    "bytes": 282567,
+    "sha256": "333a43a0f67935cde8c98ffabacaf00c8a1656b446ecb634c3184739f38c3d00"
+  },
+  {
+    "key": "whgovwire_html_2026-06-13T18:08:31.417Z",
+    "file": "whgovwire_html_2026-06-13T18:08:31.417Z.html",
+    "bytes": 282567,
+    "sha256": "333a43a0f67935cde8c98ffabacaf00c8a1656b446ecb634c3184739f38c3d00"
+  },
+  {
+    "key": "whgovwire_html_2026-06-14T18:08:31.964Z",
+    "file": "whgovwire_html_2026-06-14T18:08:31.964Z.html",
+    "bytes": 283343,
+    "sha256": "67d1b5f64bc07f42e2d8aeb3f9c5fd4e57e2c073543cc98cdaf440845cc955ff"
+  },
+  {
+    "key": "whgovwire_html_2026-06-15T18:08:48.235Z",
+    "file": "whgovwire_html_2026-06-15T18:08:48.235Z.html",
+    "bytes": 284614,
+    "sha256": "7f86bbc821206b9a668d0a5cde534c048cdf502188f16a790686839dde4b5781"
+  },
+  {
+    "key": "whgovwire_html_2026-06-16T18:08:55.103Z",
+    "file": "whgovwire_html_2026-06-16T18:08:55.103Z.html",
+    "bytes": 283733,
+    "sha256": "2b639f3e16ea84da36aa78ac9f69aa1441481db351ed975e2022975f2ea56c72"
+  },
+  {
+    "key": "whgovwire_html_2026-06-17T18:09:05.919Z",
+    "file": "whgovwire_html_2026-06-17T18:09:05.919Z.html",
+    "bytes": 282359,
+    "sha256": "82088859529aa389e296d85b5ec9f4a170cef4d2e4f05232075bbffca31f23cc"
+  },
+  {
+    "key": "whgovwire_html_2026-06-18T18:09:06.344Z",
+    "file": "whgovwire_html_2026-06-18T18:09:06.344Z.html",
+    "bytes": 282478,
+    "sha256": "b94827b19226055157ce7fcae4e47d2d0edb9ec8df7adee15121184bd187528d"
+  },
+  {
+    "key": "whgovwire_html_2026-06-19T18:09:07.861Z",
+    "file": "whgovwire_html_2026-06-19T18:09:07.861Z.html",
+    "bytes": 309906,
+    "sha256": "1d4308eb4c27c83889e593fd58ddf0be08a59cadb0db4cf5783d88c8e29212b7"
+  },
+  {
+    "key": "whgovwire_html_2026-06-20T18:23:52.898Z",
+    "file": "whgovwire_html_2026-06-20T18:23:52.898Z.html",
+    "bytes": 282873,
+    "sha256": "532bded2a9a49fcce92390d010963610aadacc461d274dbaa687fbea97ae5438"
+  },
+  {
+    "key": "whgovwire_html_2026-06-21T18:24:11.302Z",
+    "file": "whgovwire_html_2026-06-21T18:24:11.302Z.html",
+    "bytes": 283649,
+    "sha256": "956903f1f9af59b08988da97ff4ed50a094b96ab66374727b96602571224a6ef"
+  },
+  {
+    "key": "whgovwire_html_2026-06-22T18:24:34.893Z",
+    "file": "whgovwire_html_2026-06-22T18:24:34.893Z.html",
+    "bytes": 310235,
+    "sha256": "ebccf878ce07376c112756067dc0909af1c119a81da9543c7b072ced2706ee89"
+  },
+  {
+    "key": "whgovwire_html_2026-06-23T18:24:41.018Z",
+    "file": "whgovwire_html_2026-06-23T18:24:41.018Z.html",
+    "bytes": 282928,
+    "sha256": "503058dc601e90a7db127bb47a4db0ee1238196440bab9e2e1dd10e9df7b7519"
+  },
+  {
+    "key": "whgovwire_html_2026-06-24T18:24:57.094Z",
+    "file": "whgovwire_html_2026-06-24T18:24:57.094Z.html",
+    "bytes": 282732,
+    "sha256": "322a979de97e5640b8decf3949eb8ab4b22068dbeeb9a3dbe09034fe0dc1b316"
+  },
+  {
+    "key": "whgovwire_html_2026-06-25T18:25:18.365Z",
+    "file": "whgovwire_html_2026-06-25T18:25:18.365Z.html",
+    "bytes": 282343,
+    "sha256": "375188f8b1d2628c050932dedf8e6cfbbc88ea83feadf72da3095741e06bf99e"
+  },
+  {
+    "key": "whgovwire_html_2026-06-26T18:25:27.507Z",
+    "file": "whgovwire_html_2026-06-26T18:25:27.507Z.html",
+    "bytes": 283286,
+    "sha256": "db1744a10e2e4f715ff79ce4888407af59e51001e95d2e8cbda031e66357f29c"
+  },
+  {
+    "key": "whgovwire_html_2026-06-27T18:25:39.774Z",
+    "file": "whgovwire_html_2026-06-27T18:25:39.774Z.html",
+    "bytes": 282343,
+    "sha256": "8a202dc8a549995b166863d5b15a2278e7f8d1d0a79647940b7a51d631d4b362"
+  },
+  {
+    "key": "whgovwire_html_2026-06-28T18:25:53.277Z",
+    "file": "whgovwire_html_2026-06-28T18:25:53.277Z.html",
+    "bytes": 283119,
+    "sha256": "ee815252012175c32b021a50f51bbb9906fc29f23733db0295c39386e532c16b"
+  },
+  {
+    "key": "whgovwire_html_2026-06-29T18:26:43.101Z",
+    "file": "whgovwire_html_2026-06-29T18:26:43.101Z.html",
+    "bytes": 283058,
+    "sha256": "9c32159dc230f9b9287d71c4ffe2fe0c006faa0a888ea28cd39ce20733e865cc"
+  },
+  {
+    "key": "whgovwire_html_2026-06-30T18:26:43.514Z",
+    "file": "whgovwire_html_2026-06-30T18:26:43.514Z.html",
+    "bytes": 282769,
+    "sha256": "09e8de98aca43a4d1be6726f3b5e19a13456f8ba95ad5c42bdcfc739593842d0"
+  },
+  {
+    "key": "whgovwire_html_2026-07-01T18:26:59.429Z",
+    "file": "whgovwire_html_2026-07-01T18:26:59.429Z.html",
+    "bytes": 284843,
+    "sha256": "937826ad980569c8a5f87f36a2ae1f8c33fc937532c836033bf75bbb5cc10c92"
+  },
+  {
+    "key": "whgovwire_html_2026-07-02T18:27:07.013Z",
+    "file": "whgovwire_html_2026-07-02T18:27:07.013Z.html",
+    "bytes": 284944,
+    "sha256": "a54c34523e2e4c0785afb42ad8b935ae6c3ee47cd9cda6876d7bb5b975fe83e2"
+  },
+  {
+    "key": "whgovwire_html_2026-07-03T18:27:26.810Z",
+    "file": "whgovwire_html_2026-07-03T18:27:26.810Z.html",
+    "bytes": 284814,
+    "sha256": "e468364b78d33f8934ea8cdb72d18bb46a95988a9cdfc4916275e2a733f73317"
+  },
+  {
+    "key": "whgovwire_html_2026-07-04T18:27:27.815Z",
+    "file": "whgovwire_html_2026-07-04T18:27:27.815Z.html",
+    "bytes": 284814,
+    "sha256": "e468364b78d33f8934ea8cdb72d18bb46a95988a9cdfc4916275e2a733f73317"
+  },
+  {
+    "key": "whgovwire_html_2026-07-05T18:27:32.396Z",
+    "file": "whgovwire_html_2026-07-05T18:27:32.396Z.html",
+    "bytes": 285590,
+    "sha256": "be9718a193a987401aa63cfa1105a23fa269a5a064da38537f02c6b123e8d382"
+  },
+  {
+    "key": "whgovwire_html_2026-07-06T18:28:10.255Z",
+    "file": "whgovwire_html_2026-07-06T18:28:10.255Z.html",
+    "bytes": 285812,
+    "sha256": "45643f8a7da0a0494320c464cfc4858f4de269f8feb6ac928072f3121a6b1072"
+  },
+  {
+    "key": "whgovwire_html_2026-07-07T18:28:15.816Z",
+    "file": "whgovwire_html_2026-07-07T18:28:15.816Z.html",
+    "bytes": 285089,
+    "sha256": "4e7d8ab0095a696aa2540783eb61facb527d5745c7b79c13cd1337f6484fee10"
+  },
+  {
+    "key": "whgovwire_html_2026-07-08T18:28:22.014Z",
+    "file": "whgovwire_html_2026-07-08T18:28:22.014Z.html",
+    "bytes": 285089,
+    "sha256": "339fc0d4e02f80a8894dbb6e2d463bb8a8cb0cea047640f30d100753b841b97e"
+  },
+  {
+    "key": "whgovwire_html_2026-07-09T18:28:40.858Z",
+    "file": "whgovwire_html_2026-07-09T18:28:40.858Z.html",
+    "bytes": 313493,
+    "sha256": "3b8506ca91afcee918434b74dfcef13bbfb3c6d0dcbde325d827f0fad5c23aca"
+  },
+  {
+    "key": "whgovwire_html_2026-07-10T18:29:37.801Z",
+    "file": "whgovwire_html_2026-07-10T18:29:37.801Z.html",
+    "bytes": 285155,
+    "sha256": "6fbd52d5161507143752eb35764eb7d09fa9a41de69e2538b1d1f70fa5d366b0"
+  },
+  {
+    "key": "whgovwire_html_2026-07-11T18:29:46.736Z",
+    "file": "whgovwire_html_2026-07-11T18:29:46.736Z.html",
+    "bytes": 285155,
+    "sha256": "6fbd52d5161507143752eb35764eb7d09fa9a41de69e2538b1d1f70fa5d366b0"
+  },
+  {
+    "key": "whgovwire_html_2026-07-12T18:29:47.425Z",
+    "file": "whgovwire_html_2026-07-12T18:29:47.425Z.html",
+    "bytes": 285931,
+    "sha256": "a9ccecea0d6ee680672c25f0e72c9ecccef33c4309733c10146d6b7c633e4d31"
+  },
+  {
+    "key": "whgovwire_html_2026-07-13T18:30:00.365Z",
+    "file": "whgovwire_html_2026-07-13T18:30:00.365Z.html",
+    "bytes": 312195,
+    "sha256": "6bd838264ce652488096f479649909b85ae189a5c5663acd0c4630919efb49fa"
+  },
+  {
+    "key": "whgovwire_html_2026-07-14T18:30:04.138Z",
+    "file": "whgovwire_html_2026-07-14T18:30:04.138Z.html",
+    "bytes": 285257,
+    "sha256": "1c4eb8113047432b69d1e5f3d4abe2905635e2bd4addf7c61f5e1c6f886a7442"
+  },
+  {
+    "key": "whgovwire_html_2026-07-15T18:30:11.918Z",
+    "file": "whgovwire_html_2026-07-15T18:30:11.918Z.html",
+    "bytes": 284471,
+    "sha256": "0aba7466055e1f49333b4361c27e8b6ab0b847c18591ead115b06717526b8c2f"
+  },
+  {
+    "key": "whgovwire_html_2026-07-16T18:30:24.117Z",
+    "file": "whgovwire_html_2026-07-16T18:30:24.117Z.html",
+    "bytes": 284471,
+    "sha256": "2ce98524a4dd16b7011b2058f63c95280a6a5c3d13ef64f7fbe569458d0d2dad"
+  },
+  {
+    "key": "whgovwire_html_2026-07-17T18:30:45.227Z",
+    "file": "whgovwire_html_2026-07-17T18:30:45.227Z.html",
+    "bytes": 285911,
+    "sha256": "4f44206fe729e52b4ce27a7580e6aacf784d278fe717eb399042a9fa2e36713e"
+  },
+  {
+    "key": "whgovwire_html_2026-07-18T18:30:48.092Z",
+    "file": "whgovwire_html_2026-07-18T18:30:48.092Z.html",
+    "bytes": 285911,
+    "sha256": "8ef4249d84d97b2e8bfc60c2930dbfbb4664c67db3e9dc20493c35ae833ca874"
+  },
+  {
+    "key": "whgovwire_html_2026-07-19T18:30:57.124Z",
+    "file": "whgovwire_html_2026-07-19T18:30:57.124Z.html",
+    "bytes": 286687,
+    "sha256": "c03d97175ae01c425a7912444980edf9e08864bdcf57ddd3559950bfa49bb523"
+  },
+  {
+    "key": "whgovwire_html_2026-07-20T18:31:27.718Z",
+    "file": "whgovwire_html_2026-07-20T18:31:27.718Z.html",
+    "bytes": 286653,
+    "sha256": "fecd9151c4151c3d6b716f30cf179dc6e8368568db4a9cfa1ec066659a2e15b7"
+  },
+  {
+    "key": "whgovwire_html_2026-07-21T18:31:29.952Z",
+    "file": "whgovwire_html_2026-07-21T18:31:29.952Z.html",
+    "bytes": 286747,
+    "sha256": "dbd42db386a8ef48ef4c7357e0480cbc0e0cb939809b0b9a92af13a56cb96499"
+  },
+  {
+    "key": "whgovwire_html_2026-07-22T18:31:37.831Z",
+    "file": "whgovwire_html_2026-07-22T18:31:37.831Z.html",
+    "bytes": 288417,
+    "sha256": "007c7f30bc8972469db1e3ec72d7d00a486d3765097d399c64a0dc315072d076"
+  },
+  {
+    "key": "whgovwire_html_2026-07-23T18:31:37.896Z",
+    "file": "whgovwire_html_2026-07-23T18:31:37.896Z.html",
+    "bytes": 290258,
+    "sha256": "5e1d049032f97dc6e9ea4c334def5f1eecdcc28ff0cd364d908bd3987d71aab6"
+  },
+  {
+    "key": "whgovwire_html_2026-07-24T18:32:00.630Z",
+    "file": "whgovwire_html_2026-07-24T18:32:00.630Z.html",
+    "bytes": 290202,
+    "sha256": "c2c246cb4216cb13804bb7a6c218cacaeaceeb8bf09e0bc6a6db7966571221b9"
+  },
+  {
+    "key": "whgovwire_html_2026-07-25T18:33:08.925Z",
+    "file": "whgovwire_html_2026-07-25T18:33:08.925Z.html",
+    "bytes": 290202,
+    "sha256": "c2c246cb4216cb13804bb7a6c218cacaeaceeb8bf09e0bc6a6db7966571221b9"
+  },
+  {
+    "key": "whgovwire_html_2026-07-26T18:33:28.329Z",
+    "file": "whgovwire_html_2026-07-26T18:33:28.329Z.html",
+    "bytes": 290978,
+    "sha256": "d73f7789dc19fc8782a031a41d0cfaf68ad51e45cf108f1eeae8a15b5b824837"
+  },
+  {
+    "key": "whgovwire_html_2026-07-27T18:33:38.832Z",
+    "file": "whgovwire_html_2026-07-27T18:33:38.832Z.html",
+    "bytes": 289069,
+    "sha256": "06e499f05316fb3b401e241d9b03fb69a927fc7749894ed2c079cb51535f1e6e"
+  },
+  {
+    "key": "whgovwire_html_2026-07-28T18:34:05.311Z",
+    "file": "whgovwire_html_2026-07-28T18:34:05.311Z.html",
+    "bytes": 288612,
+    "sha256": "e3cb0543155a38713cbf6f3e9362924470a7f7d3a832a8a68d6747f966548343"
+  },
+  {
+    "key": "whgovwire_html_2026-07-29T18:34:15.492Z",
+    "file": "whgovwire_html_2026-07-29T18:34:15.492Z.html",
+    "bytes": 290102,
+    "sha256": "9aeeb6d4d25d791c0d5aa0780195e9713b240dac162b909a9e7ef0e66105e075"
+  },
+  {
+    "key": "whgovwire_html_2026-07-30T18:34:17.007Z",
+    "file": "whgovwire_html_2026-07-30T18:34:17.007Z.html",
+    "bytes": 289999,
+    "sha256": "27f86a118d803c28dac671de0a4e061a78fe7a31ca2e1b0ed58bdc8a16db8fd3"
+  },
+  {
+    "key": "whgovwire_html_2026-07-31T18:34:20.889Z",
+    "file": "whgovwire_html_2026-07-31T18:34:20.889Z.html",
+    "bytes": 317371,
+    "sha256": "52b5b363de30edcbc15c945f3acd9a70e30b98694a959a57ee8e58bfcdf67352"
+  },
+  {
+    "key": "whgovwire_html_2026-08-01T18:34:35.847Z",
+    "file": "whgovwire_html_2026-08-01T18:34:35.847Z.html",
+    "bytes": 289999,
+    "sha256": "27f86a118d803c28dac671de0a4e061a78fe7a31ca2e1b0ed58bdc8a16db8fd3"
+  },
+  {
+    "key": "whgovwire_html_2026-08-02T18:35:04.391Z",
+    "file": "whgovwire_html_2026-08-02T18:35:04.391Z.html",
+    "bytes": 289999,
+    "sha256": "27f86a118d803c28dac671de0a4e061a78fe7a31ca2e1b0ed58bdc8a16db8fd3"
+  },
+  {
+    "key": "whgovwire_html_2026-08-03T18:35:07.214Z",
+    "file": "whgovwire_html_2026-08-03T18:35:07.214Z.html",
+    "bytes": 313472,
+    "sha256": "08b02474900e4b445be439bebf209ba976e402ee618bd6e3d59e24727919cd9d"
+  },
+  {
+    "key": "whgovwire_html_2026-08-04T18:35:12.996Z",
+    "file": "whgovwire_html_2026-08-04T18:35:12.996Z.html",
+    "bytes": 288056,
+    "sha256": "ac4a7fbc08cf47a011b66313301a3c1899a28d3fb3b068733af89132b44c484a"
+  },
+  {
+    "key": "whgovwire_html_2026-08-05T18:35:21.936Z",
+    "file": "whgovwire_html_2026-08-05T18:35:21.936Z.html",
+    "bytes": 289316,
+    "sha256": "ca4dee577ff84fec65e35d6b8817a7a5da1469546b48f463ef8db7ea668974e1"
+  },
+  {
+    "key": "whgovwire_html_2026-08-06T18:35:59.694Z",
+    "file": "whgovwire_html_2026-08-06T18:35:59.694Z.html",
+    "bytes": 316737,
+    "sha256": "7d25b9b7836ec581cda7be55bad2d6238d417fc5e46d0c405605bad712a9becd"
+  },
+  {
+    "key": "whgovwire_html_2026-08-07T18:36:16.427Z",
+    "file": "whgovwire_html_2026-08-07T18:36:16.427Z.html",
+    "bytes": 289388,
+    "sha256": "d0075a00f86d905432540925a5c235e7d2b1577df74bd22b586f6e45abd36ff9"
+  },
+  {
+    "key": "whgovwire_html_2026-08-08T18:36:37.225Z",
+    "file": "whgovwire_html_2026-08-08T18:36:37.225Z.html",
+    "bytes": 289388,
+    "sha256": "d0075a00f86d905432540925a5c235e7d2b1577df74bd22b586f6e45abd36ff9"
+  },
+  {
+    "key": "whgovwire_html_2026-08-09T18:37:12.193Z",
+    "file": "whgovwire_html_2026-08-09T18:37:12.193Z.html",
+    "bytes": 290164,
+    "sha256": "bdb07c4678dcf187d60a0cbbbb32178d45166b2938a0e2f55ea8db9eb6089437"
+  },
+  {
+    "key": "whgovwire_html_2026-08-10T18:39:12.564Z",
+    "file": "whgovwire_html_2026-08-10T18:39:12.564Z.html",
+    "bytes": 289325,
+    "sha256": "013060f52e4f1e28d9af8c1dd797c519f3a8f1689351bf7783332499c4de9da6"
+  },
+  {
+    "key": "whgovwire_html_2026-08-11T18:39:20.321Z",
+    "file": "whgovwire_html_2026-08-11T18:39:20.321Z.html",
+    "bytes": 290479,
+    "sha256": "81b04c97ab3b17c6d15b0e92f5aab72aa3603bda1caa444463035dc44c679581"
+  },
+  {
+    "key": "whgovwire_html_2026-08-12T18:39:37.314Z",
+    "file": "whgovwire_html_2026-08-12T18:39:37.314Z.html",
+    "bytes": 289131,
+    "sha256": "bbb0c5089afc6573233a738dfe7849363ffdae20e349c431a755b85611588924"
+  },
+  {
+    "key": "whgovwire_html_2026-08-13T18:40:22.042Z",
+    "file": "whgovwire_html_2026-08-13T18:40:22.042Z.html",
+    "bytes": 289131,
+    "sha256": "5b04dbbd9379d0b6029a24457ae52af172a9c713d47e72ccadf846a29e63575c"
+  },
+  {
+    "key": "whgovwire_html_2026-08-14T18:40:22.934Z",
+    "file": "whgovwire_html_2026-08-14T18:40:22.934Z.html",
+    "bytes": 325375,
+    "sha256": "d327fea588c127c5be62ebdf51336f00b0c75d95009055bcd280423bf6d9f76c"
+  },
+  {
+    "key": "whgovwire_html_2026-08-15T18:41:09.705Z",
+    "file": "whgovwire_html_2026-08-15T18:41:09.705Z.html",
+    "bytes": 297093,
+    "sha256": "e2ef44f78697a0897900a8c52d5defba7a7a4b4f6f906e568b894d957bcd292e"
+  },
+  {
+    "key": "whgovwire_html_2026-08-16T18:41:15.301Z",
+    "file": "whgovwire_html_2026-08-16T18:41:15.301Z.html",
+    "bytes": 297869,
+    "sha256": "31a0589e7e63c5fcdc3e7fa66cf4693c2f3f670940aee7756ea6eee463b81fd6"
+  },
+  {
+    "key": "whgovwire_html_2026-08-17T18:43:31.042Z",
+    "file": "whgovwire_html_2026-08-17T18:43:31.042Z.html",
+    "bytes": 296982,
+    "sha256": "4692c257efc6edab5249875dfb577c254847047466b38e645d3f62d089b7e873"
+  },
+  {
+    "key": "whgovwire_html_2026-08-18T18:43:41.259Z",
+    "file": "whgovwire_html_2026-08-18T18:43:41.259Z.html",
+    "bytes": 296593,
+    "sha256": "5d69b017ad44e2586ec7a83b7b4aab112067a8cdea8de64aff12100e0de90368"
+  },
+  {
+    "key": "whgovwire_html_2026-08-19T18:43:42.212Z",
+    "file": "whgovwire_html_2026-08-19T18:43:42.212Z.html",
+    "bytes": 295019,
+    "sha256": "f539b56a37c1e5eacc75f489adb696e3c1d53f6854933b50b58bc70edf713277"
+  },
+  {
+    "key": "whgovwire_html_2026-08-20T18:43:43.946Z",
+    "file": "whgovwire_html_2026-08-20T18:43:43.946Z.html",
+    "bytes": 294788,
+    "sha256": "06bd56b6239d46a0faea84e39697a1138f783d4186f627c4f1a1ca46e2ec19e8"
+  },
+  {
+    "key": "whgovwire_html_2026-08-21T18:44:40.851Z",
+    "file": "whgovwire_html_2026-08-21T18:44:40.851Z.html",
+    "bytes": 295042,
+    "sha256": "5973ab1a184fce423a134879ba70734a8986a62880bad4d0c592f08d7a5f6c1c"
+  },
+  {
+    "key": "whgovwire_html_2026-08-22T18:44:51.712Z",
+    "file": "whgovwire_html_2026-08-22T18:44:51.712Z.html",
+    "bytes": 295042,
+    "sha256": "5973ab1a184fce423a134879ba70734a8986a62880bad4d0c592f08d7a5f6c1c"
+  },
+  {
+    "key": "whgovwire_html_2026-08-23T18:44:57.994Z",
+    "file": "whgovwire_html_2026-08-23T18:44:57.994Z.html",
+    "bytes": 295818,
+    "sha256": "6631ae3f873b1a965c9d55f1515cbcb8b9035d2256bb48c12554941442ea96cb"
+  },
+  {
+    "key": "whgovwire_html_2026-08-24T18:45:12.797Z",
+    "file": "whgovwire_html_2026-08-24T18:45:12.797Z.html",
+    "bytes": 297030,
+    "sha256": "3d95455c855a25347b8cf6243fad5c57febc2c8af9c515cc0a0b5e6e38b6f089"
+  },
+  {
+    "key": "whgovwire_html_2026-08-25T18:45:31.718Z",
+    "file": "whgovwire_html_2026-08-25T18:45:31.718Z.html",
+    "bytes": 297030,
+    "sha256": "af1c675781a8c79a4969fdc27a1bdd4530ce95c7f51a7230be27aeb526f2312f"
+  },
+  {
+    "key": "whgovwire_html_2026-08-26T18:45:47.731Z",
+    "file": "whgovwire_html_2026-08-26T18:45:47.731Z.html",
+    "bytes": 295761,
+    "sha256": "8fa56db841fee95a684e90a051b87644c06b60214988e9862ecc7dc3715f9da5"
+  },
+  {
+    "key": "whgovwire_html_2026-08-27T18:47:03.850Z",
+    "file": "whgovwire_html_2026-08-27T18:47:03.850Z.html",
+    "bytes": 295761,
+    "sha256": "8fa56db841fee95a684e90a051b87644c06b60214988e9862ecc7dc3715f9da5"
+  },
+  {
+    "key": "whgovwire_html_2026-08-28T18:47:36.505Z",
+    "file": "whgovwire_html_2026-08-28T18:47:36.505Z.html",
+    "bytes": 295734,
+    "sha256": "4aa461dce379c0f4d2fa850f81e4b3e3e561bf031801954bfdb4eb5461e3276c"
+  },
+  {
+    "key": "whgovwire_html_2026-08-29T18:48:15.234Z",
+    "file": "whgovwire_html_2026-08-29T18:48:15.234Z.html",
+    "bytes": 324124,
+    "sha256": "7d402561bdb5c30636e219fea386bed4714f6d5a216aa2ab4abd7274c1dd8cfe"
+  },
+  {
+    "key": "whgovwire_html_2026-08-30T18:48:46.601Z",
+    "file": "whgovwire_html_2026-08-30T18:48:46.601Z.html",
+    "bytes": 296592,
+    "sha256": "50aed4a1bf823a7f09b00e08d207787bb3c2e29737d75efc3b05c41461f4e7e0"
+  },
+  {
+    "key": "whgovwire_html_2026-08-31T18:49:42.303Z",
+    "file": "whgovwire_html_2026-08-31T18:49:42.303Z.html",
+    "bytes": 295885,
+    "sha256": "ace2c161cb4042e15742b28e8db60e2a1d543ee387741db4a86b68263eb8b518"
+  },
+  {
+    "key": "whgovwire_html_2026-09-01T18:50:12.325Z",
+    "file": "whgovwire_html_2026-09-01T18:50:12.325Z.html",
+    "bytes": 295849,
+    "sha256": "7be8573513ab230cb7f74c30c028d6b8e473702b2ea314ff9bb24220c2f834bf"
+  },
+  {
+    "key": "whgovwire_html_2026-09-02T18:50:24.427Z",
+    "file": "whgovwire_html_2026-09-02T18:50:24.427Z.html",
+    "bytes": 295876,
+    "sha256": "6e0e71a830e36a0538f45a4b5371a4a6f44c595a9f3c44925b6b23647f599b8a"
+  },
+  {
+    "key": "whgovwire_html_2026-09-03T18:51:55.991Z",
+    "file": "whgovwire_html_2026-09-03T18:51:55.991Z.html",
+    "bytes": 295255,
+    "sha256": "3c5821d376a69a7572e5f59de0e8f7dfe2e547307817c8d310fa8ac55b7b9a2c"
+  },
+  {
+    "key": "whgovwire_html_2026-09-04T18:52:15.892Z",
+    "file": "whgovwire_html_2026-09-04T18:52:15.892Z.html",
+    "bytes": 295903,
+    "sha256": "2141004ad5ac169c8ec4c8a414968d6077bfba95b1d7b58991a8422183e3f38f"
+  },
+  {
+    "key": "whgovwire_html_2026-09-05T18:53:00.208Z",
+    "file": "whgovwire_html_2026-09-05T18:53:00.208Z.html",
+    "bytes": 295903,
+    "sha256": "2141004ad5ac169c8ec4c8a414968d6077bfba95b1d7b58991a8422183e3f38f"
+  },
+  {
+    "key": "whgovwire_html_2026-09-06T18:54:34.408Z",
+    "file": "whgovwire_html_2026-09-06T18:54:34.408Z.html",
+    "bytes": 325967,
+    "sha256": "2cc28d20a34c59c26d03e3c5a5047445267341da9b2c0535c27ddb09b1183d60"
+  },
+  {
+    "key": "whgovwire_html_2026-09-07T18:56:34.306Z",
+    "file": "whgovwire_html_2026-09-07T18:56:34.306Z.html",
+    "bytes": 296679,
+    "sha256": "c765bdbdd2549380061a5d52794585d7388e220b67c9880b0a63e134c487fefd"
+  },
+  {
+    "key": "whgovwire_html_2026-09-08T18:57:03.117Z",
+    "file": "whgovwire_html_2026-09-08T18:57:03.117Z.html",
+    "bytes": 296679,
+    "sha256": "c765bdbdd2549380061a5d52794585d7388e220b67c9880b0a63e134c487fefd"
+  },
+  {
+    "key": "whgovwire_html_2026-09-09T18:59:14.893Z",
+    "file": "whgovwire_html_2026-09-09T18:59:14.893Z.html",
+    "bytes": 296558,
+    "sha256": "3757c4f7153189f74ffcb8611de5bfc2559dde9e75ac1d8dc5a957c1176d5882"
+  },
+  {
+    "key": "whgovwire_html_2026-09-10T19:00:35.888Z",
+    "file": "whgovwire_html_2026-09-10T19:00:35.888Z.html",
+    "bytes": 297409,
+    "sha256": "ea90d9ea5fe869f90335ffee2853636da71170c237054c27feb37e2e3bda6b6f"
+  },
+  {
+    "key": "whgovwire_html_2026-09-11T19:00:39.436Z",
+    "file": "whgovwire_html_2026-09-11T19:00:39.436Z.html",
+    "bytes": 297409,
+    "sha256": "ea90d9ea5fe869f90335ffee2853636da71170c237054c27feb37e2e3bda6b6f"
+  },
+  {
+    "key": "whgovwire_html_2026-09-12T19:02:10.559Z",
+    "file": "whgovwire_html_2026-09-12T19:02:10.559Z.html",
+    "bytes": 297409,
+    "sha256": "ea90d9ea5fe869f90335ffee2853636da71170c237054c27feb37e2e3bda6b6f"
+  },
+  {
+    "key": "whgovwire_html_2026-09-13T19:05:07.907Z",
+    "file": "whgovwire_html_2026-09-13T19:05:07.907Z.html",
+    "bytes": 297409,
+    "sha256": "ea90d9ea5fe869f90335ffee2853636da71170c237054c27feb37e2e3bda6b6f"
+  },
+  {
+    "key": "whgovwire_html_2026-09-14T19:05:40.906Z",
+    "file": "whgovwire_html_2026-09-14T19:05:40.906Z.html",
+    "bytes": 297292,
+    "sha256": "88f8d2c3ee40317a74edb955c5ae10a44fca51aea89d68c2892427678234c289"
+  },
+  {
+    "key": "whgovwire_html_2026-09-15T19:07:58.726Z",
+    "file": "whgovwire_html_2026-09-15T19:07:58.726Z.html",
+    "bytes": 298529,
+    "sha256": "83b6c8bd1f254ef744ef2249c57a0cae5a6d9e235199d93ad39f7278ac797710"
+  },
+  {
+    "key": "whgovwire_html_2026-09-16T19:07:58.924Z",
+    "file": "whgovwire_html_2026-09-16T19:07:58.924Z.html",
+    "bytes": 297055,
+    "sha256": "020c86161f25e3dbd63fc40909fa6e6841ab911db9c4a04163d45f412124ff7b"
+  },
+  {
+    "key": "whgovwire_html_2026-09-17T19:07:59.432Z",
+    "file": "whgovwire_html_2026-09-17T19:07:59.432Z.html",
+    "bytes": 295556,
+    "sha256": "6d660f8be61ac34671d68a852504ae684104783bdb2252b9af5756395d8e8201"
+  },
+  {
+    "key": "whgovwire_html_2026-09-18T19:08:01.726Z",
+    "file": "whgovwire_html_2026-09-18T19:08:01.726Z.html",
+    "bytes": 295491,
+    "sha256": "a247f5df98ab910ca943cf7c39dbfaa094c2c0d7d1b72c229a46a8e8b23bf673"
+  },
+  {
+    "key": "whgovwire_html_2026-09-19T19:08:02.579Z",
+    "file": "whgovwire_html_2026-09-19T19:08:02.579Z.html",
+    "bytes": 295491,
+    "sha256": "a247f5df98ab910ca943cf7c39dbfaa094c2c0d7d1b72c229a46a8e8b23bf673"
+  },
+  {
+    "key": "whgovwire_html_2026-09-20T19:08:03.259Z",
+    "file": "whgovwire_html_2026-09-20T19:08:03.259Z.html",
+    "bytes": 296267,
+    "sha256": "b710ffd94ca229d56c06b6cabb035c9e5f35420b7797179daa2da75676459dbf"
+  },
+  {
+    "key": "whgovwire_html_2026-09-21T19:08:02.739Z",
+    "file": "whgovwire_html_2026-09-21T19:08:02.739Z.html",
+    "bytes": 297883,
+    "sha256": "71774fcc3c8f48a9133d66501998595259c4a63a0d02061ab67a9a7d28a595c0"
+  },
+  {
+    "key": "whgovwire_html_2026-09-22T19:08:03.083Z",
+    "file": "whgovwire_html_2026-09-22T19:08:03.083Z.html",
+    "bytes": 297883,
+    "sha256": "d53bbb8d1c1f64a7f1367b796adb9d079dbe93b239d555529647fd8f9232dea6"
+  },
+  {
+    "key": "whgovwire_html_2026-09-23T19:08:03.189Z",
+    "file": "whgovwire_html_2026-09-23T19:08:03.189Z.html",
+    "bytes": 297679,
+    "sha256": "a2e8bf48a0541e536956c8832725f13c49b4f59414224bba4ecdb49e9a941754"
+  },
+  {
+    "key": "whgovwire_html_2026-09-24T19:08:03.389Z",
+    "file": "whgovwire_html_2026-09-24T19:08:03.389Z.html",
+    "bytes": 327693,
+    "sha256": "dd85372818908fd52f44a82d145f2949ba2571d5a51e02c8169295ddc7f87158"
+  },
+  {
+    "key": "whgovwire_html_2026-09-25T19:08:04.522Z",
+    "file": "whgovwire_html_2026-09-25T19:08:04.522Z.html",
+    "bytes": 327693,
+    "sha256": "b8f82a963dc3ca9b8963113f4cc74fe30d021635a556f8c85e41dbe4a4cd01be"
+  },
+  {
+    "key": "whgovwire_html_2026-09-26T19:08:04.691Z",
+    "file": "whgovwire_html_2026-09-26T19:08:04.691Z.html",
+    "bytes": 298560,
+    "sha256": "a9957d6d3cdd2d2f8b6822b876a66704420aecd9fd0e0b8cafb2fbd908c95598"
+  },
+  {
+    "key": "whgovwire_html_2026-09-27T19:08:04.996Z",
+    "file": "whgovwire_html_2026-09-27T19:08:04.996Z.html",
+    "bytes": 328623,
+    "sha256": "71977062fb75499a72a011424fa1ac81a418cf1a3b52d625b4e7534a6d2ebb73"
+  },
+  {
+    "key": "whgovwire_html_2026-09-28T19:08:05.261Z",
+    "file": "whgovwire_html_2026-09-28T19:08:05.261Z.html",
+    "bytes": 299336,
+    "sha256": "c3036ed36cd46102da0ac1822a9224e930f260fc49b186d33e09da34a0f81ca9"
+  },
+  {
+    "key": "whgovwire_html_2026-09-29T19:08:05.425Z",
+    "file": "whgovwire_html_2026-09-29T19:08:05.425Z.html",
+    "bytes": 329169,
+    "sha256": "6a37ad0f55155d8836cfa6d91746da7d9f4b22534d257b014ff9a3a0c22b8f4c"
+  },
+  {
+    "key": "whgovwire_html_2026-09-30T19:08:05.533Z",
+    "file": "whgovwire_html_2026-09-30T19:08:05.533Z.html",
+    "bytes": 299882,
+    "sha256": "c295f2129838448baa900c4419aa402e11a301a7eb7eef53752d0926caaf1a81"
+  },
+  {
+    "key": "whgovwire_html_2026-10-01T19:08:05.793Z",
+    "file": "whgovwire_html_2026-10-01T19:08:05.793Z.html",
+    "bytes": 299882,
+    "sha256": "c295f2129838448baa900c4419aa402e11a301a7eb7eef53752d0926caaf1a81"
+  },
+  {
+    "key": "whgovwire_html_2026-10-02T19:08:05.891Z",
+    "file": "whgovwire_html_2026-10-02T19:08:05.891Z.html",
+    "bytes": 299882,
+    "sha256": "61eb9738688994b2397d71c67161436145a76d687314268d0eea9675cc9125dd"
+  },
+  {
+    "key": "whgovwire_html_2026-10-03T19:08:06.012Z",
+    "file": "whgovwire_html_2026-10-03T19:08:06.012Z.html",
+    "bytes": 299882,
+    "sha256": "61eb9738688994b2397d71c67161436145a76d687314268d0eea9675cc9125dd"
+  },
+  {
+    "key": "whgovwire_html_2026-10-04T19:08:06.196Z",
+    "file": "whgovwire_html_2026-10-04T19:08:06.196Z.html",
+    "bytes": 299882,
+    "sha256": "61eb9738688994b2397d71c67161436145a76d687314268d0eea9675cc9125dd"
+  },
+  {
+    "key": "whgovwire_html_2026-10-05T19:08:06.300Z",
+    "file": "whgovwire_html_2026-10-05T19:08:06.300Z.html",
+    "bytes": 329169,
+    "sha256": "e5c50bd168f3cc96885c7659c97ce448cebd479f2b7a9f65a7f9963122c2a896"
+  },
+  {
+    "key": "whgovwire_html_2026-10-06T19:08:06.337Z",
+    "file": "whgovwire_html_2026-10-06T19:08:06.337Z.html",
+    "bytes": 329169,
+    "sha256": "4d32627b26685c08b9300afdc8124fdf5423e48afa97692ba93917cf654b4836"
+  },
+  {
+    "key": "whgovwire_html_2026-10-07T19:08:06.487Z",
+    "file": "whgovwire_html_2026-10-07T19:08:06.487Z.html",
+    "bytes": 329169,
+    "sha256": "4185977ee5bd880036227ac120f7a8d3a2798dcd85fce99235faaa457bfe46d7"
+  },
+  {
+    "key": "whgovwire_html_2026-10-08T19:08:06.592Z",
+    "file": "whgovwire_html_2026-10-08T19:08:06.592Z.html",
+    "bytes": 298473,
+    "sha256": "1912e27cda61d4b6a5f650684b1a1b0cc386308a24fc7de0fd258cc6137d6f82"
+  },
+  {
+    "key": "whgovwire_html_2026-10-09T19:08:06.974Z",
+    "file": "whgovwire_html_2026-10-09T19:08:06.974Z.html",
+    "bytes": 298473,
+    "sha256": "1912e27cda61d4b6a5f650684b1a1b0cc386308a24fc7de0fd258cc6137d6f82"
+  },
+  {
+    "key": "whgovwire_html_2026-10-10T19:08:07.086Z",
+    "file": "whgovwire_html_2026-10-10T19:08:07.086Z.html",
+    "bytes": 299604,
+    "sha256": "0170f29ecca1e559cb18b6ff2e83cad68bb7bd9826ceb4cde5fd3b9c5530eb81"
+  },
+  {
+    "key": "whgovwire_html_2026-10-11T19:08:07.055Z",
+    "file": "whgovwire_html_2026-10-11T19:08:07.055Z.html",
+    "bytes": 300380,
+    "sha256": "61653f1a1642a8c38ba61b20d17a770b61d9c0f24c438bdd9921f1036e58bc01"
+  },
+  {
+    "key": "whgovwire_html_2026-10-12T19:08:07.288Z",
+    "file": "whgovwire_html_2026-10-12T19:08:07.288Z.html",
+    "bytes": 300380,
+    "sha256": "61653f1a1642a8c38ba61b20d17a770b61d9c0f24c438bdd9921f1036e58bc01"
+  },
+  {
+    "key": "whgovwire_html_2026-10-13T19:08:07.122Z",
+    "file": "whgovwire_html_2026-10-13T19:08:07.122Z.html",
+    "bytes": 300380,
+    "sha256": "dcd760bc3e4956e42f4d500be7c2af88be96c8c903c0b3866d413158c804c68f"
+  },
+  {
+    "key": "whgovwire_html_2026-10-14T19:08:07.199Z",
+    "file": "whgovwire_html_2026-10-14T19:08:07.199Z.html",
+    "bytes": 300380,
+    "sha256": "dcd760bc3e4956e42f4d500be7c2af88be96c8c903c0b3866d413158c804c68f"
+  },
+  {
+    "key": "whgovwire_html_2026-10-15T19:08:07.785Z",
+    "file": "whgovwire_html_2026-10-15T19:08:07.785Z.html",
+    "bytes": 300380,
+    "sha256": "2f56c524740d7987887485a701baaf3292746fc870d0c1bdfdbc4af046d7acc9"
+  },
+  {
+    "key": "whgovwire_html_2026-10-16T19:08:07.793Z",
+    "file": "whgovwire_html_2026-10-16T19:08:07.793Z.html",
+    "bytes": 300380,
+    "sha256": "ce9f032bae5241cbe848182255fbc376903bd6d43b8031dd5d3508aa6694f00b"
+  },
+  {
+    "key": "whgovwire_html_2026-10-17T19:08:07.932Z",
+    "file": "whgovwire_html_2026-10-17T19:08:07.932Z.html",
+    "bytes": 300380,
+    "sha256": "96f1eeac9e010b42e61f033fa1ab3e57bae8c44a1f3a6f4693dafbd5284a29e6"
+  },
+  {
+    "key": "whgovwire_html_2026-10-18T19:08:08.036Z",
+    "file": "whgovwire_html_2026-10-18T19:08:08.036Z.html",
+    "bytes": 300380,
+    "sha256": "96f1eeac9e010b42e61f033fa1ab3e57bae8c44a1f3a6f4693dafbd5284a29e6"
+  },
+  {
+    "key": "whgovwire_html_2026-10-19T19:08:08.196Z",
+    "file": "whgovwire_html_2026-10-19T19:08:08.196Z.html",
+    "bytes": 300380,
+    "sha256": "96f1eeac9e010b42e61f033fa1ab3e57bae8c44a1f3a6f4693dafbd5284a29e6"
+  },
+  {
+    "key": "whgovwire_html_2026-10-20T19:08:08.442Z",
+    "file": "whgovwire_html_2026-10-20T19:08:08.442Z.html",
+    "bytes": 329258,
+    "sha256": "bade83455953be9a6a46c3c3c25aa96ebf7570c4d92e953ada851c5d645d7598"
+  },
+  {
+    "key": "whgovwire_html_2026-10-21T19:08:08.862Z",
+    "file": "whgovwire_html_2026-10-21T19:08:08.862Z.html",
+    "bytes": 299956,
+    "sha256": "62630b95522f9c63e22d909b3a308a3dcd9a43a847b3f7f4b361d7da313c5407"
+  },
+  {
+    "key": "whgovwire_html_2026-10-22T19:08:08.996Z",
+    "file": "whgovwire_html_2026-10-22T19:08:08.996Z.html",
+    "bytes": 300113,
+    "sha256": "e7599cd9d9a30a936b1814f7a80160a57e52fbcc2cfecc2adc3c3c0ef918b645"
+  },
+  {
+    "key": "whgovwire_html_2026-10-23T19:08:08.800Z",
+    "file": "whgovwire_html_2026-10-23T19:08:08.800Z.html",
+    "bytes": 300117,
+    "sha256": "fdaaf947706731d00cbdeba7f96f824d758efe2063cc28e04b5f20613c04719b"
+  },
+  {
+    "key": "whgovwire_html_2026-10-24T19:08:09.601Z",
+    "file": "whgovwire_html_2026-10-24T19:08:09.601Z.html",
+    "bytes": 300117,
+    "sha256": "fdaaf947706731d00cbdeba7f96f824d758efe2063cc28e04b5f20613c04719b"
+  },
+  {
+    "key": "whgovwire_html_2026-10-25T19:08:09.190Z",
+    "file": "whgovwire_html_2026-10-25T19:08:09.190Z.html",
+    "bytes": 330195,
+    "sha256": "0fd566357e3fa1705034073418115ad677a66bbc5010e6ca33eb4b4444dd7948"
+  },
+  {
+    "key": "whgovwire_html_2026-10-26T19:08:09.391Z",
+    "file": "whgovwire_html_2026-10-26T19:08:09.391Z.html",
+    "bytes": 301221,
+    "sha256": "41b1ae672752e1468130d479ff02a9c54e57f88d004b9a781721b3a429308fb2"
+  },
+  {
+    "key": "whgovwire_html_2026-10-27T19:08:09.714Z",
+    "file": "whgovwire_html_2026-10-27T19:08:09.714Z.html",
+    "bytes": 301225,
+    "sha256": "21339ab8dd271635a60c415fc6bab09486282dd1c7a16e53b984966f8d200d1a"
+  },
+  {
+    "key": "whgovwire_html_2026-10-28T19:08:09.832Z",
+    "file": "whgovwire_html_2026-10-28T19:08:09.832Z.html",
+    "bytes": 301225,
+    "sha256": "efe0da79a13cc606a7ca67d02cc5ed6d1e0562839499efca39e7abe1994aeb4b"
+  },
+  {
+    "key": "whgovwire_html_2026-10-29T19:08:10.224Z",
+    "file": "whgovwire_html_2026-10-29T19:08:10.224Z.html",
+    "bytes": 301221,
+    "sha256": "b272f84f6bb8757ae4b4612f2f80cdf8255659e05c4eed162158eb09844abbda"
+  },
+  {
+    "key": "whgovwire_html_2026-10-30T19:08:10.121Z",
+    "file": "whgovwire_html_2026-10-30T19:08:10.121Z.html",
+    "bytes": 330507,
+    "sha256": "c5ba8d6542583c652204a91ca760228bba05e3d32ed3b859dc7448e886d44601"
+  },
+  {
+    "key": "whgovwire_html_2026-10-31T19:08:10.257Z",
+    "file": "whgovwire_html_2026-10-31T19:08:10.257Z.html",
+    "bytes": 301221,
+    "sha256": "7ce164660bd48b00d4930c349d2cc1e275e1ee6591be33448fecc591da749e27"
+  },
+  {
+    "key": "whgovwire_html_2026-11-01T19:08:10.452Z",
+    "file": "whgovwire_html_2026-11-01T19:08:10.452Z.html",
+    "bytes": 301221,
+    "sha256": "7ce164660bd48b00d4930c349d2cc1e275e1ee6591be33448fecc591da749e27"
+  },
+  {
+    "key": "whgovwire_html_2026-11-02T19:08:10.517Z",
+    "file": "whgovwire_html_2026-11-02T19:08:10.517Z.html",
+    "bytes": 301221,
+    "sha256": "e576a8de9c0044340c7d7366b801db6b2ae767b449229ed1fa28d3e3a839dd47"
+  },
+  {
+    "key": "whgovwire_html_2026-11-03T19:08:10.826Z",
+    "file": "whgovwire_html_2026-11-03T19:08:10.826Z.html",
+    "bytes": 301178,
+    "sha256": "1c7282153bfd435e3fd1316444791fdf77b8a3bf4d59e7d3765e5479e0dd69dd"
+  },
+  {
+    "key": "whgovwire_html_2026-11-04T19:08:11.228Z",
+    "file": "whgovwire_html_2026-11-04T19:08:11.228Z.html",
+    "bytes": 301178,
+    "sha256": "0b3d9e399b60485084b6825dd4262b7fd31d9146206b0f9849d2760c6b8880a5"
+  },
+  {
+    "key": "whgovwire_html_2026-11-05T19:08:11.285Z",
+    "file": "whgovwire_html_2026-11-05T19:08:11.285Z.html",
+    "bytes": 301227,
+    "sha256": "4a4bcbfe7e38d6f88c3b75cd1a6eaf0159825bc366b420edfacfc7c8f3eb61ba"
+  },
+  {
+    "key": "whgovwire_html_2026-11-06T19:08:11.504Z",
+    "file": "whgovwire_html_2026-11-06T19:08:11.504Z.html",
+    "bytes": 301227,
+    "sha256": "000c478bf856abff4aa2fc7f1238a6c684aef00aa5edfd6a25f503de6de531fd"
+  },
+  {
+    "key": "whgovwire_html_2026-11-07T19:08:11.433Z",
+    "file": "whgovwire_html_2026-11-07T19:08:11.433Z.html",
+    "bytes": 330513,
+    "sha256": "2e94703c8165df49e932da9f959bd56dd4657a7f326f882cfdddea21abdc8e84"
+  },
+  {
+    "key": "whgovwire_html_2026-11-08T19:08:11.805Z",
+    "file": "whgovwire_html_2026-11-08T19:08:11.805Z.html",
+    "bytes": 301227,
+    "sha256": "000c478bf856abff4aa2fc7f1238a6c684aef00aa5edfd6a25f503de6de531fd"
+  },
+  {
+    "key": "whgovwire_html_2026-11-09T19:08:11.892Z",
+    "file": "whgovwire_html_2026-11-09T19:08:11.892Z.html",
+    "bytes": 330513,
+    "sha256": "ca7267bfd742f3d9fb4d9fcb118f2447a33084be6c5f2843d271b9f19ccd637c"
+  },
+  {
+    "key": "whgovwire_html_2026-11-10T19:08:11.798Z",
+    "file": "whgovwire_html_2026-11-10T19:08:11.798Z.html",
+    "bytes": 301227,
+    "sha256": "2f82d06a051a8d55f02d392a4497ce70983f8ec0b7644ff6de3793666ab4e5ce"
+  },
+  {
+    "key": "whgovwire_html_2026-11-11T19:08:12.399Z",
+    "file": "whgovwire_html_2026-11-11T19:08:12.399Z.html",
+    "bytes": 301782,
+    "sha256": "e74d9ff4ae192b8c49e5d3cb00ad0c2f9983278fd12de353174188529eeb1015"
+  },
+  {
+    "key": "whgovwire_html_2026-11-12T19:08:13.031Z",
+    "file": "whgovwire_html_2026-11-12T19:08:13.031Z.html",
+    "bytes": 301782,
+    "sha256": "e74d9ff4ae192b8c49e5d3cb00ad0c2f9983278fd12de353174188529eeb1015"
+  }
+]
