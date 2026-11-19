@@ -8,8 +8,9 @@ Netlify runs `netlify/functions/capture.mts` daily at **19:08 UTC**
 (12:08 p.m. Denver in winter; 1:08 p.m. in summer). The function fetches the
 page and creates a timestamped HTML file in this repository's `snapshots/`
 directory through the GitHub API. The commit triggers a normal Netlify build.
-The build generates only a placeholder `index.html` using `src/site.ori`.
-Snapshots are stored in Git but are not copied into the published site yet.
+The build parses all snapshots, deduplicates the links, and generates a static
+`index.html` table plus `index.json` using `src/site.ori`. Raw snapshots remain
+in Git and are not copied into the published site.
 There is no collection during builds, and deploys do not invoke the collector.
 
 ## Netlify setup
@@ -58,3 +59,55 @@ unexpected HTML, and fails rather than committing partial or invalid results.
 Its shared 25-second request deadline fits Netlify's 30-second limit. It has no
 automatic retry or independent missed-run alert; inspect Netlify logs during
 handoff. Scheduled execution is not an exact-time guarantee.
+
+## Generated link data
+
+`src/site.ori` calls `scripts/extract-links.mjs` once per build. HTML files are
+read and parsed sequentially; only deduplicated records are retained. No JSON
+sidecars or caches are stored in Git. Change the extraction rules and rebuild
+to regenerate everything from the original HTML.
+
+The selector `main :is(h1, h2) a[href^="http"][target="_blank"]` matches
+external links inside main-content h1/h2 headings,
+excluding anchors containing SVGs, White House hosts, and empty normalized text.
+Unlike the old substring exclusion, an external URL merely mentioning
+`whitehouse.gov` in its query remains eligible. This limits extraction to headings in the main content.
+
+Each record in `index.json` has `url`, `domain`, `text`, `firstSeen`, `lastSeen`,
+`snapshotCount`, and `daysOnPage`. Deduplication uses the exact extracted URL (no tracking
+parameter removal or redirect fetching). Domains use the public suffix list
+via `tldts`, with hostname fallback. Headlines retain their first observed text;
+whitespace is collapsed and entities decoded by the HTML parser. Observation
+dates come from filenames and are normalized to UTC. Count means captures
+containing the URL, not number of days or repeated anchors. Results are sorted
+by first observation, newest first, then URL for ties.
+
+The HTML table and JSON share the same data. Displayed content is escaped;
+there is no client-side JavaScript, runtime API, or extraction on page views.
+The UI notes that dates reflect observations, not article publication dates.
+The current archive still needs the Val Town handoff backfill.
+
+### Measure extraction
+
+```sh
+npm run measure:extraction
+/usr/bin/time -l npm run build
+```
+
+Every build logs an `[archive]` JSON summary with snapshot and link counts,
+input bytes, extraction wall time, and peak process memory. Timing and memory
+are logged only, not embedded in the published data. See `BENCHMARK.md` for the
+initial measurements. `dist/` is generated and remains gitignored.
+
+## Summary tables
+
+The page ranks the top 20 links by `daysOnPage`: distinct UTC dates on which
+that exact URL appears. Multiple captures on the same day count once, missing
+dates do not count, and first-to-last span is not treated as continuous presence.
+This is observed presence, not article publication time. Extraction is restricted to links in main-content h1/h2 headings.
+
+The top 20 domains count unique destinations across the entire archive, rather
+than snapshot appearances. `youtu.be` is grouped under `youtube.com`; YouTube
+watch, shortened, live, shorts, and embed URLs with the same video ID count once
+in that summary, ignoring video query parameters. Other destination URLs use
+exact matching. Original URLs and domains remain unchanged in `index.json`.

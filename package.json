@@ -6,10 +6,13 @@
     "build": "ori copy src/site.ori, clear files:dist",
     "start": "ori serve watch src, =debug src/site.ori",
     "test": "node --test",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "measure:extraction": "node scripts/extract-links.mjs"
   },
   "dependencies": {
-    "@weborigami/origami": "0.7.5"
+    "@weborigami/origami": "0.7.5",
+    "cheerio": "^1.2.0",
+    "tldts": "^7.5.5"
   },
   "devDependencies": {
     "@netlify/functions": "^5.0.0",

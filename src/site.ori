@@ -1,3 +1,5 @@
 {
-  index.html: "<!doctype html><html lang=\"en\"><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><title>White House Wire archive</title><p>nothing to see here...yet</p></html>"
+  (archive) = <../scripts/extract-links.mjs>()
+  index.json = Origami.json(archive.links)
+  index.html = <index.mjs>(archive)
 }
