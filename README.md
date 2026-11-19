@@ -4,7 +4,7 @@ A daily raw HTML archive of https://www.whitehouse.gov/wire/.
 
 ## How it works
 
-Netlify runs `netlify/functions/capture.mts` daily at **19:08 UTC**
+Netlify runs `netlify/functions/capture.ts` daily at **19:08 UTC**
 (12:08 p.m. Denver in winter; 1:08 p.m. in summer). The function fetches the
 page and creates a timestamped HTML file in this repository's `snapshots/`
 directory through the GitHub API. The commit triggers a normal Netlify build.
@@ -62,7 +62,7 @@ handoff. Scheduled execution is not an exact-time guarantee.
 
 ## Generated link data
 
-`src/site.ori` calls `scripts/extract-links.mjs` once per build. HTML files are
+`src/site.ori` calls `scripts/extract-links.js` once per build. HTML files are
 read and parsed sequentially; only deduplicated records are retained. No JSON
 sidecars or caches are stored in Git. Change the extraction rules and rebuild
 to regenerate everything from the original HTML.

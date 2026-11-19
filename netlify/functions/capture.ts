@@ -1,5 +1,5 @@
 import type { Config } from "@netlify/functions";
-import { capture } from "../lib/capture.mjs";
+import { capture } from "../lib/capture.js";
 
 export default async () => {
   const result = await capture({ token: Netlify.env.get("GITHUB_TOKEN") });

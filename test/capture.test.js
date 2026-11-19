@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { capture } from "../netlify/lib/capture.mjs";
+import { capture } from "../netlify/lib/capture.js";
 const now = new Date("2026-11-20T19:08:12.399Z");
 const html = "<!doctype html><html><title>White House Wire</title><p>Snapshot</p></html>";
 function mock(responses) {

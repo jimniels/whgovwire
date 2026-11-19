@@ -7,7 +7,7 @@
     "start": "ori serve watch src, =debug src/site.ori",
     "test": "node --test",
     "typecheck": "tsc --noEmit",
-    "measure:extraction": "node scripts/extract-links.mjs"
+    "measure:extraction": "node scripts/extract-links.js"
   },
   "dependencies": {
     "@weborigami/origami": "0.7.5",

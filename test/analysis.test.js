@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { summarize } from '../src/analysis.mjs';
+import { summarize } from '../src/analysis.js';
 const link = (url, domain, daysOnPage = 1) => ({url, domain, daysOnPage, firstSeen:'2026-11-01T19:08:00.000Z',lastSeen:'2026-11-19T19:08:00.000Z',text:'Headline'});
 
 test('ranks links by observed days, rather than apparent first-to-last span', () => {

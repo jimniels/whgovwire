@@ -1,7 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { extractLinks, mergeLinks, snapshotDate } from '../scripts/extract-links.mjs';
-import renderIndex from '../src/index.mjs';
+import { extractLinks, mergeLinks, snapshotDate } from '../scripts/extract-links.js';
+import renderIndex from '../src/index.js';
 
 test('extracts readable external links, normalizes whitespace and counts a URL once', () => {
  const html = `<main><h1><a href="https://news.example.co.uk/story?a=1&amp;b=2" target="_blank"><img></a>
@@ -44,7 +44,7 @@ test('full pipeline orders files by timestamp and parses one record across captu
  const { mkdtemp, writeFile, rm } = await import('node:fs/promises');
  const { tmpdir } = await import('node:os');
  const { join } = await import('node:path');
- const { default: buildArchive } = await import('../scripts/extract-links.mjs');
+ const { default: buildArchive } = await import('../scripts/extract-links.js');
  const directory = await mkdtemp(join(tmpdir(), 'whgovwire-extraction-'));
  try {
   await writeFile(join(directory,'whgovwire_html_2026-11-19T19:08:13Z.html'),'<main><h1><a href="https://example.com/story" target="_blank">Later</a></h1></main>');

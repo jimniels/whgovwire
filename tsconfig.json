@@ -12,6 +12,6 @@
     ]
   },
   "include": [
-    "netlify/**/*.mts"
+    "netlify/**/*.ts"
   ]
 }

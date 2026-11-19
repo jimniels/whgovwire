@@ -1,5 +1,5 @@
 {
-  (archive) = <../scripts/extract-links.mjs>()
+  (archive) = <../scripts/extract-links.js>()
   index.json = Origami.json(archive.links)
-  index.html = <index.mjs>(archive)
+  index.html = <index.js>(archive)
 }
