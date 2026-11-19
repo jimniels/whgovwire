@@ -1,0 +1,19 @@
+{
+  "name": "whgovwire",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "ori copy src/site.ori, clear files:dist",
+    "start": "ori serve watch src, =debug src/site.ori",
+    "test": "node --test",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@weborigami/origami": "0.7.5"
+  },
+  "devDependencies": {
+    "@netlify/functions": "^5.0.0",
+    "@types/node": "^24.0.0",
+    "typescript": "^5.9.0"
+  }
+}
